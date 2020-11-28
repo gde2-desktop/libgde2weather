@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+               "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd"
+[
+  <!ENTITY % local.common.attrib "xmlns:xi  CDATA  #FIXED 'http://www.w3.org/2003/XInclude'">
+]>
+<book id="index">
+  <bookinfo>
+    <title>libgde2weather Reference Manual</title>
+    <releaseinfo>
+      for libgde2weather]
+      <!-- GDE2 has no online gtkdocs! uncomment and update below when it does-->
+      <!--The latest version of this documentation can be found on-line at
+      <ulink role="online-location" url="http://[SERVER]/libgde2weather/index.html">http://[SERVER]/libgde2weather/</ulink>.-->
+    </releaseinfo>
+  </bookinfo>
+
+  <chapter>
+    <title>libgde2weather Reference Manual</title>
+    <xi:include href="xml/gde2weather-location.xml"/>
+    <xi:include href="xml/location-entry.xml"/>
+    <xi:include href="xml/gde2weather-timezone.xml"/>
+    <xi:include href="xml/timezone-menu.xml"/>
+    <xi:include href="xml/weather.xml"/>
+    <xi:include href="xml/gde2weather-xml.xml"/>
+    <xi:include href="xml/gde2weather-gde2conf.xml"/>
+    <xi:include href="xml/gde2weather-prefs.xml"/>
+  </chapter>
+
+  <chapter id="object-tree">
+    <title>Object Hierarchy</title>
+     <xi:include href="xml/tree_index.sgml"/>
+  </chapter>
+  <index id="api-index-full">
+    <title>API Index</title>
+    <xi:include href="xml/api-index-full.xml"><xi:fallback /></xi:include>
+  </index>
+  <index id="api-index-deprecated" role="deprecated">
+    <title>Index of deprecated symbols</title>
+    <xi:include href="xml/api-index-deprecated.xml"><xi:fallback /></xi:include>
+  </index>
+
+  <xi:include href="xml/annotation-glossary.xml"><xi:fallback /></xi:include>
+</book>

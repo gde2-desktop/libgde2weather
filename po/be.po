@@ -1,0 +1,942 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Ales Nyakhaychyk <nab@mail.by>, 2003-2004,2008
+# Alexander Nyakhaychyk <nyakhaychyk@gmail.com>, 2009
+# Ihar Hrachyshka <boox.svaboda2006@gmail.com>, 2006
+# Vital Khilko <dojlid@mova.org>, 2002-2003
+# Vital Khilko <dojlid@mova.org>, 2002-2003, 2014-2015
+# Vital Khilko <dojlid@mova.org>, 2002-2003, 2014-2015, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-27 15:08+0300\n"
+"PO-Revision-Date: 2016-06-27 11:44+0000\n"
+"Last-Translator: Mihail Varantsou <meequz@gmail.com>\n"
+"Language-Team: Belarusian (http://www.transifex.com/gde2/GDE2/language/be/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: ../libgde2weather/gde2weather-prefs.c:93
+#: ../libgde2weather/gde2weather-prefs.c:113
+#: ../libgde2weather/gde2weather-prefs.c:139
+#: ../libgde2weather/gde2weather-prefs.c:168
+msgid "Default"
+msgstr "Стандартныя"
+
+#. translators: Kelvin
+#: ../libgde2weather/gde2weather-prefs.c:96
+msgid "K"
+msgstr "K"
+
+#. translators: Celsius
+#: ../libgde2weather/gde2weather-prefs.c:99
+msgid "C"
+msgstr "C"
+
+#. translators: Fahrenheit
+#: ../libgde2weather/gde2weather-prefs.c:102
+msgid "F"
+msgstr "F"
+
+#: ../libgde2weather/gde2weather-prefs.c:104
+#: ../libgde2weather/gde2weather-prefs.c:130
+#: ../libgde2weather/gde2weather-prefs.c:159
+#: ../libgde2weather/gde2weather-prefs.c:179 ../libgde2weather/weather.c:253
+#: ../libgde2weather/weather.c:270 ../libgde2weather/weather.c:342
+msgid "Invalid"
+msgstr "Няправільны"
+
+#. translators: meters per second
+#: ../libgde2weather/gde2weather-prefs.c:116
+msgid "m/s"
+msgstr "м/с"
+
+#. translators: kilometers per hour
+#: ../libgde2weather/gde2weather-prefs.c:119
+msgid "km/h"
+msgstr "км/г"
+
+#. translators: miles per hour
+#: ../libgde2weather/gde2weather-prefs.c:122
+msgid "mph"
+msgstr "мілі за гадзіну"
+
+#. translators: knots (speed unit)
+#: ../libgde2weather/gde2weather-prefs.c:125
+msgid "knots"
+msgstr "вузлы"
+
+#. translators: wind speed
+#: ../libgde2weather/gde2weather-prefs.c:128
+msgid "Beaufort scale"
+msgstr "Шкала Бафорта"
+
+#. translators: kilopascals
+#: ../libgde2weather/gde2weather-prefs.c:142
+msgid "kPa"
+msgstr "кілапаскалі"
+
+#. translators: hectopascals
+#: ../libgde2weather/gde2weather-prefs.c:145
+msgid "hPa"
+msgstr "гектапаскалі"
+
+#. translators: millibars
+#: ../libgde2weather/gde2weather-prefs.c:148
+msgid "mb"
+msgstr "мілібары"
+
+#. translators: millimeters of mercury
+#: ../libgde2weather/gde2weather-prefs.c:151
+msgid "mmHg"
+msgstr "мілібары мэркура"
+
+#. translators: inches of mercury
+#: ../libgde2weather/gde2weather-prefs.c:154
+msgid "inHg"
+msgstr "цалі мэркура"
+
+#. translators: atmosphere
+#: ../libgde2weather/gde2weather-prefs.c:157
+msgid "atm"
+msgstr "атмасферы"
+
+#. translators: meters
+#: ../libgde2weather/gde2weather-prefs.c:171
+msgid "m"
+msgstr "м"
+
+#. translators: kilometers
+#: ../libgde2weather/gde2weather-prefs.c:174
+msgid "km"
+msgstr "км"
+
+#. translators: miles
+#: ../libgde2weather/gde2weather-prefs.c:177
+msgid "mi"
+msgstr "мілі"
+
+#: ../libgde2weather/gde2weather-timezone.c:315
+msgid "Greenwich Mean Time"
+msgstr "Сярэдні час па Грынвічы"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:1
+msgid "Show notifications"
+msgstr "Паказваць абвяшчэнні"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:2
+msgid "Determines whether the applet shows a notification on each update."
+msgstr "Вызначае, ці будзе аплет выводзіць абвяшчэнні пры кожным абнаўленні."
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:3
+msgid "Update the data automatically"
+msgstr "Абнаўляць звесткі аўтаматычна"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:4
+msgid ""
+"Determines whether the applet automatically updates its weather statistics "
+"or not."
+msgstr "Вызначае, ці абнаўляе аўтаматычна аплет звесткі пра надвор'е або не."
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:5
+msgid "Update interval"
+msgstr "Хуткасць абнаўлення"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:6
+msgid "The interval, in seconds, between automatic updates."
+msgstr "Прамежак часу ў секундах паміж аўтаматычнымі абнаўленнямі."
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:7
+msgid "Use metric units"
+msgstr "Выкарыстоўваць метрычныя адзінкі"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:8
+msgid "Use metric units instead of english units."
+msgstr "Выкарыстоўваць метрычныя адзінкі замест англійскіх."
+
+#. TRANSLATORS: pick a default distance unit for your locale, see key
+#. description
+#. for valid values; values must be quoted
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:11
+msgid "'miles'"
+msgstr "'miles'"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:12
+msgid "Distance unit"
+msgstr "Адзінка адлегласці"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:13
+msgid "The unit to use for visibility. Values: 'meters', 'km' ,'miles'."
+msgstr "Адзінка адлегласці. Магчымыя значэнні: 'meters', 'km' ,'miles'."
+
+#. TRANSLATORS: pick a default pressure unit for your locale, see key
+#. description
+#. for valid values; values must be quoted
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:16
+msgid "'inHg'"
+msgstr "'inHg'"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:17
+msgid "Pressure unit"
+msgstr "Адзінка ціску"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:18
+msgid ""
+"The unit to use for pressure. Values: 'kPa', 'hPa', 'mb', 'mmHg', 'inHg', "
+"'atm'."
+msgstr "Адзінка ціску. Магчымыя значэнні: 'kPa', 'hPa', 'mb', 'mmHg', 'inHg', 'atm'."
+
+#. TRANSLATORS: pick a default speed unit for your locale, see key description
+#. for valid values; values must be quoted
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:21
+msgid "'knots'"
+msgstr "'knots'"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:22
+msgid "Speed unit"
+msgstr "Адзінка хуткасці"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:23
+msgid ""
+"The unit to use for wind speed. Values: 'm/s', 'km/h, 'mph', 'knots', "
+"'Beaufort scale'."
+msgstr "Адзінка хуткасці ветру. Магчымыя значэнні: 'm/s', 'km/h, 'mph', 'knots', 'Beaufort scale'."
+
+#. TRANSLATORS: pick a temperature unit that should be used by default in your
+#. locale, see key description for valid values; values must be quoted
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:26
+msgid "'Fahrenheit'"
+msgstr "'Fahrenheit'"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:27
+msgid "Temperature unit"
+msgstr "Адзінка тэмпэратуры"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:28
+msgid ""
+"The unit to use for temperature. Values: 'Kelvin', 'Centigrade', "
+"'Fahrenheit'."
+msgstr "Адзінка тэмпературы. Магчымыя значэнні: 'Kelvin', 'Centigrade', 'Fahrenheit'."
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:29
+msgid "Not used anymore"
+msgstr "Больш не выкарыстоўваецца"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:30
+msgid "Display radar map"
+msgstr "Паказваць радарную мапу"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:31
+msgid "Fetch a radar map on each update."
+msgstr "Атрымліваць радарную мапу падчас кожнага абнаўлення."
+
+#. TRANSLATORS: Change this to the default location name, used
+#. when you first start the Weather Applet. This is the common
+#. localised name that corresponds to the location code
+#. (DEFAULT_CODE) you will put on the next message. For example, for
+#. the Greek locale, we set this to "Athens", the capital city and we
+#. write it in Greek. It's important to translate this name. If you
+#. do not require a DEFAULT_LOCATION, set this to
+#. "DEFAULT_LOCATION".
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:40
+msgid "'DEFAULT_LOCATION'"
+msgstr "'DEFAULT_LOCATION'"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:41
+msgid "Weather location information"
+msgstr "Звесткі надвор'я мясцовасці"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:42
+msgid "Weather location information."
+msgstr "Звесткі надвор'я мясцовасці."
+
+#. TRANSLATORS: Change this to the code of your default location
+#. that corresponds to the DEFAULT_LOCATION name you put above. This
+#. is normally a four-letter (ICAO) code and can be found in
+#. https://github.com/gde2-
+#. desktop/libgde2weather/blob/master/data/Locations.xml.in.
+#. NB. The web page is over 1.7MB in size. Pick a default location
+#. like a capital city so that it would be ok for more of your users.
+#. For example, for Greek, we use "LGAV" for the capital city, Athens.
+#. If you do not require a DEFAULT_CODE, set this to "DEFAULT_CODE".
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:51
+msgid "'DEFAULT_CODE'"
+msgstr "'DEFAULT_CODE'"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:52
+msgid "Nearby city"
+msgstr "Найбліжэйшы горад"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:53
+msgid ""
+"Nearby major zone, such as a capital city, as found from "
+"https://raw.github.com/gde2-"
+"desktop/libgde2weather/master/data/Locations.xml.in"
+msgstr "Найбліжэйшы вялікі населены пункт, кшталту сталіцы, бярэцца з https://raw.github.com/gde2-desktop/libgde2weather/master/data/Locations.xml.in"
+
+#. TRANSLATORS: Change this to the zone of your default location
+#. that corresponds to the DEFAULT_LOCATION and DEFAULT_CODE you put
+#. above. Normally, US and Canada locations have zones while the rest
+#. do not. Check
+#. https://github.com/gde2-
+#. desktop/libgde2weather/blob/master/data/Locations.xml.in
+#. as any zone you put here must also be present in the Locations.xml
+#. file. If your default location does not have a zone, set this to
+#. "DEFAULT_ZONE".
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:62
+msgid "'DEFAULT_ZONE'"
+msgstr "'DEFAULT_ZONE'"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:63
+msgid "Zone location"
+msgstr "Размяшчэнне зоны"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:64
+msgid ""
+"A unique zone for the city, as found from https://raw.github.com/gde2-"
+"desktop/libgde2weather/master/data/Locations.xml.in"
+msgstr "Унікальная частка гораду, бярэцца з https://raw.github.com/gde2-desktop/libgde2weather/master/data/Locations.xml.in"
+
+#. TRANSLATORS: Change this to the radar of your default location
+#. that corresponds to the DEFAULT_LOCATION and DEFAULT_CODE you put
+#. above. Normally, US and Canada locations have radar names while the
+#. rest do not. Check
+#. https://github.com/gde2-
+#. desktop/libgde2weather/blob/master/data/Locations.xml.in
+#. as any radar you put here must also be present in the Locations.xml
+#. file. If your default location does not have a radar, set this to
+#. " " (or space).
+#. If you do not have a default location, set this to DEFAULT_RADAR.
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:74
+msgid "'DEFAULT_RADAR'"
+msgstr "'DEFAULT_RADAR'"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:75
+msgid "Radar location"
+msgstr "Размяшчэнне радара"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:76
+msgid ""
+"A three-digit-long code for retrieving radar maps from weather.com, found "
+"from https://raw.github.com/gde2-"
+"desktop/libgde2weather/master/data/Locations.xml.in"
+msgstr "Трохлічбавы код для атрымання радарных картаў з weather.com, бярэцца з https://raw.github.com/gde2-desktop/libgde2weather/master/data/Locations.xml.in"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:77
+msgid "Weather for a city"
+msgstr "Прагноз надвор'я для горада"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:78
+msgid "The city that gde2weather displays information for."
+msgstr "Горад, для якога паказваюцца звесткі."
+
+#. TRANSLATORS: Change this to the coordinates of your default
+#. location that corresponds to the DEFAULT_LOCATION and DEFAULT_CODE
+#. you put above. Check
+#. https://github.com/gde2-
+#. desktop/libgde2weather/blob/master/data/Locations.xml.in
+#. as any coordinates you put here must also be present in the
+#. Locations.xml file. If your default location does not have known
+#. coordinates, set this to " " (or space). If you do not have a
+#. default location, set this to DEFAULT_COORDINATES.
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:87
+msgid "'DEFAULT_COORDINATES'"
+msgstr "'DEFAULT_COORDINATES'"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:88
+msgid "Location coordinates"
+msgstr "Каардынаты мясцовасці"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:89
+msgid ""
+"Latitude and longitude of your location expressed in DD-MM-SS[NS] DD-MM-"
+"SS[EW]."
+msgstr "Шырата і даўгата вашай мясцовасці, напісаныя ў фармаце DD-MM-SS[NS] DD-MM-SS[EW]."
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:90
+msgid "Use custom url for the radar map"
+msgstr "Выкарыстоўваць адмысловы url для радарнай мапы"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:91
+msgid ""
+"If true, then retrieve a radar map from a location specified by the "
+"\"radar\" key."
+msgstr "Калі ісціна, атрымлівае радарную мапу са знаходжання, якое вызначаецца ключом \"radar\"."
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:92
+msgid "Url for the radar map"
+msgstr "URL радарнай мапы"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:93
+msgid "The custom url from where to retrieve a radar map."
+msgstr "Адмысловы url, адкуль атрымліваць радарную мапу."
+
+#: ../libgde2weather/timezone-menu.c:278
+msgctxt "timezone"
+msgid "Unknown"
+msgstr "Невядома"
+
+#. Translators: %d is an error code, and %s the error string
+#: ../libgde2weather/weather-metar.c:504
+#, c-format
+msgid "Failed to get METAR data: %d %s.\n"
+msgstr "Не выйшла атрымаць звесткі ад METAR: %d %s.\n"
+
+#: ../libgde2weather/weather-metar.c:548
+msgid "WeatherInfo missing location"
+msgstr "Звесткі пра надвор'е: невядомая мясцовасць"
+
+#: ../libgde2weather/weather.c:242
+msgid "Variable"
+msgstr "Зменная"
+
+#: ../libgde2weather/weather.c:243
+msgid "North"
+msgstr "Паўночны"
+
+#: ../libgde2weather/weather.c:243
+msgid "North - NorthEast"
+msgstr "Паўночны - Паўночна-Ўсходні"
+
+#: ../libgde2weather/weather.c:243
+msgid "Northeast"
+msgstr "Паўночна-Ўсходні"
+
+#: ../libgde2weather/weather.c:243
+msgid "East - NorthEast"
+msgstr "Усходні - Паўночна-Ўсходні"
+
+#: ../libgde2weather/weather.c:244
+msgid "East"
+msgstr "Усходні"
+
+#: ../libgde2weather/weather.c:244
+msgid "East - Southeast"
+msgstr "Усходні - Паўднёва-Ўсходні"
+
+#: ../libgde2weather/weather.c:244
+msgid "Southeast"
+msgstr "Паўднёва-Ўсходні"
+
+#: ../libgde2weather/weather.c:244
+msgid "South - Southeast"
+msgstr "Паўднёвы - Паўднёва-Ўсходні"
+
+#: ../libgde2weather/weather.c:245
+msgid "South"
+msgstr "Паўднёвы"
+
+#: ../libgde2weather/weather.c:245
+msgid "South - Southwest"
+msgstr "Паўднёвы - Паўднёва-Заходні"
+
+#: ../libgde2weather/weather.c:245
+msgid "Southwest"
+msgstr "Паўднёва-Заходні"
+
+#: ../libgde2weather/weather.c:245
+msgid "West - Southwest"
+msgstr "Заходні - Паўднёва-Заходні"
+
+#: ../libgde2weather/weather.c:246
+msgid "West"
+msgstr "Заходні"
+
+#: ../libgde2weather/weather.c:246
+msgid "West - Northwest"
+msgstr "Заходні - Паўночна-Заходні"
+
+#: ../libgde2weather/weather.c:246
+msgid "Northwest"
+msgstr "Паўночна-Заходні"
+
+#: ../libgde2weather/weather.c:246
+msgid "North - Northwest"
+msgstr "Паўночны - Паўночна-Заходні"
+
+#: ../libgde2weather/weather.c:259
+msgid "Clear Sky"
+msgstr "Яснае неба"
+
+#: ../libgde2weather/weather.c:260
+msgid "Broken clouds"
+msgstr "Пераменная воблачнасць"
+
+#: ../libgde2weather/weather.c:261
+msgid "Scattered clouds"
+msgstr "Адасобленыя аблокі"
+
+#: ../libgde2weather/weather.c:262
+msgid "Few clouds"
+msgstr "Невялікая воблачнасць"
+
+#: ../libgde2weather/weather.c:263
+msgid "Overcast"
+msgstr "Суцэльная воблачнасць"
+
+#. TRANSLATOR: If you want to know what "blowing" "shallow" "partial"
+#. * etc means, you can go to http://www.weather.com/glossary/ and
+#. * http://www.crh.noaa.gov/arx/wx.tbl.php
+#. NONE
+#: ../libgde2weather/weather.c:302 ../libgde2weather/weather.c:304
+msgid "Thunderstorm"
+msgstr "Навальніца"
+
+#. DRIZZLE
+#: ../libgde2weather/weather.c:303
+msgid "Drizzle"
+msgstr "Дробны дождж"
+
+#: ../libgde2weather/weather.c:303
+msgid "Light drizzle"
+msgstr "Лёгкі дробны дождж"
+
+#: ../libgde2weather/weather.c:303
+msgid "Moderate drizzle"
+msgstr "Умераны дробны дождж"
+
+#: ../libgde2weather/weather.c:303
+msgid "Heavy drizzle"
+msgstr "Моцны дробны дождж"
+
+#: ../libgde2weather/weather.c:303
+msgid "Freezing drizzle"
+msgstr "Халодны дробны дождж"
+
+#. RAIN
+#: ../libgde2weather/weather.c:304
+msgid "Rain"
+msgstr "Дождж"
+
+#: ../libgde2weather/weather.c:304
+msgid "Light rain"
+msgstr "Лёгкі дождж"
+
+#: ../libgde2weather/weather.c:304
+msgid "Moderate rain"
+msgstr "Умераны дождж"
+
+#: ../libgde2weather/weather.c:304
+msgid "Heavy rain"
+msgstr "Моцны дождж"
+
+#: ../libgde2weather/weather.c:304
+msgid "Rain showers"
+msgstr "Зліва"
+
+#: ../libgde2weather/weather.c:304
+msgid "Freezing rain"
+msgstr "Халодны дождж"
+
+#. SNOW
+#: ../libgde2weather/weather.c:305
+msgid "Snow"
+msgstr "Снег"
+
+#: ../libgde2weather/weather.c:305
+msgid "Light snow"
+msgstr "Лёгкі снег"
+
+#: ../libgde2weather/weather.c:305
+msgid "Moderate snow"
+msgstr "Умераны снег"
+
+#: ../libgde2weather/weather.c:305
+msgid "Heavy snow"
+msgstr "Моцны снег"
+
+#: ../libgde2weather/weather.c:305
+msgid "Snowstorm"
+msgstr "Снегапад"
+
+#: ../libgde2weather/weather.c:305
+msgid "Blowing snowfall"
+msgstr "Снегапад з ветрам"
+
+#: ../libgde2weather/weather.c:305
+msgid "Snow showers"
+msgstr "Завіруха"
+
+#: ../libgde2weather/weather.c:305
+msgid "Drifting snow"
+msgstr "Дробны снег"
+
+#. SNOW_GRAINS
+#: ../libgde2weather/weather.c:306
+msgid "Snow grains"
+msgstr "Снежная крупа"
+
+#: ../libgde2weather/weather.c:306
+msgid "Light snow grains"
+msgstr "Лёгкі снег, падобны да крупы"
+
+#: ../libgde2weather/weather.c:306
+msgid "Moderate snow grains"
+msgstr "Умераны снег, падобны да крупы"
+
+#: ../libgde2weather/weather.c:306
+msgid "Heavy snow grains"
+msgstr "Моцны снег, падобны да крупы"
+
+#. ICE_CRYSTALS
+#: ../libgde2weather/weather.c:307
+msgid "Ice crystals"
+msgstr "Крышталі лёду"
+
+#. ICE_PELLETS
+#: ../libgde2weather/weather.c:308
+msgid "Ice pellets"
+msgstr "Град"
+
+#: ../libgde2weather/weather.c:308
+msgid "Few ice pellets"
+msgstr "Мала граду"
+
+#: ../libgde2weather/weather.c:308
+msgid "Moderate ice pellets"
+msgstr "Умераны град"
+
+#: ../libgde2weather/weather.c:308
+msgid "Heavy ice pellets"
+msgstr "Моцны град"
+
+#: ../libgde2weather/weather.c:308
+msgid "Ice pellet storm"
+msgstr "Шторм граду"
+
+#: ../libgde2weather/weather.c:308
+msgid "Showers of ice pellets"
+msgstr "Шквал граду"
+
+#. HAIL
+#: ../libgde2weather/weather.c:309
+msgid "Hail"
+msgstr "Град"
+
+#: ../libgde2weather/weather.c:309
+msgid "Hailstorm"
+msgstr "Градавы шторм"
+
+#: ../libgde2weather/weather.c:309
+msgid "Hail showers"
+msgstr "Моцны град з ветрам"
+
+#. SMALL_HAIL
+#: ../libgde2weather/weather.c:310
+msgid "Small hail"
+msgstr "Мелкі град"
+
+#: ../libgde2weather/weather.c:310
+msgid "Small hailstorm"
+msgstr "Малы град"
+
+#: ../libgde2weather/weather.c:310
+msgid "Showers of small hail"
+msgstr "Шторм малога граду"
+
+#. PRECIPITATION
+#: ../libgde2weather/weather.c:311
+msgid "Unknown precipitation"
+msgstr "Невядомыя ападкі"
+
+#. MIST
+#: ../libgde2weather/weather.c:312
+msgid "Mist"
+msgstr "Прыземны туман"
+
+#. FOG
+#: ../libgde2weather/weather.c:313
+msgid "Fog"
+msgstr "Туман"
+
+#: ../libgde2weather/weather.c:313
+msgid "Fog in the vicinity"
+msgstr "Туман вакол"
+
+#: ../libgde2weather/weather.c:313
+msgid "Shallow fog"
+msgstr "Ліўневы туман"
+
+#: ../libgde2weather/weather.c:313
+msgid "Patches of fog"
+msgstr "Месцамі туман"
+
+#: ../libgde2weather/weather.c:313
+msgid "Partial fog"
+msgstr "Часамі туман"
+
+#: ../libgde2weather/weather.c:313
+msgid "Freezing fog"
+msgstr "Халодны туман"
+
+#. SMOKE
+#: ../libgde2weather/weather.c:314
+msgid "Smoke"
+msgstr "Дым"
+
+#. VOLCANIC_ASH
+#: ../libgde2weather/weather.c:315
+msgid "Volcanic ash"
+msgstr "Вулканічны попел"
+
+#. SAND
+#: ../libgde2weather/weather.c:316
+msgid "Sand"
+msgstr "Пяшчаная завіруха"
+
+#: ../libgde2weather/weather.c:316
+msgid "Blowing sand"
+msgstr "Прыземная пяшчаная завіруха"
+
+#: ../libgde2weather/weather.c:316
+msgid "Drifting sand"
+msgstr "Пяшчаныя заносы"
+
+#. HAZE
+#: ../libgde2weather/weather.c:317
+msgid "Haze"
+msgstr "Дымка"
+
+#. SPRAY
+#: ../libgde2weather/weather.c:318
+msgid "Blowing sprays"
+msgstr "Парывы ветру з пылам"
+
+#. DUST
+#: ../libgde2weather/weather.c:319
+msgid "Dust"
+msgstr "Пыл"
+
+#: ../libgde2weather/weather.c:319
+msgid "Blowing dust"
+msgstr "Моцны пыл"
+
+#: ../libgde2weather/weather.c:319
+msgid "Drifting dust"
+msgstr "Заносы пылу"
+
+#. SQUALL
+#: ../libgde2weather/weather.c:320
+msgid "Squall"
+msgstr "Шквал"
+
+#. SANDSTORM
+#: ../libgde2weather/weather.c:321
+msgid "Sandstorm"
+msgstr "Пяшчаны шторм"
+
+#: ../libgde2weather/weather.c:321
+msgid "Sandstorm in the vicinity"
+msgstr "Пяшчаны шторм вакол"
+
+#: ../libgde2weather/weather.c:321
+msgid "Heavy sandstorm"
+msgstr "Моцны пяшчаны шторм"
+
+#. DUSTSTORM
+#: ../libgde2weather/weather.c:322
+msgid "Duststorm"
+msgstr "Шторм з пылу"
+
+#: ../libgde2weather/weather.c:322
+msgid "Duststorm in the vicinity"
+msgstr "Шторм з пылу вакол"
+
+#: ../libgde2weather/weather.c:322
+msgid "Heavy duststorm"
+msgstr "Моцны шторм з пылу"
+
+#. FUNNEL_CLOUD
+#: ../libgde2weather/weather.c:323
+msgid "Funnel cloud"
+msgstr "Смерч"
+
+#. TORNADO
+#: ../libgde2weather/weather.c:324
+msgid "Tornado"
+msgstr "Тарнада"
+
+#. DUST_WHIRLS
+#: ../libgde2weather/weather.c:325
+msgid "Dust whirls"
+msgstr "Віхоры пылу"
+
+#: ../libgde2weather/weather.c:325
+msgid "Dust whirls in the vicinity"
+msgstr "Віхоры пылу вакол"
+
+#. TRANSLATOR: this is a format string for strftime
+#. *             see `man 3 strftime` for more details
+#: ../libgde2weather/weather.c:718
+msgid "%a, %b %d / %H:%M"
+msgstr "%a, %b %d / %H:%M"
+
+#: ../libgde2weather/weather.c:733
+msgid "Unknown observation time"
+msgstr "Невядомы час назірання"
+
+#: ../libgde2weather/weather.c:747 ../libgde2weather/weather.c:798
+#: ../libgde2weather/weather.c:812 ../libgde2weather/weather.c:825
+#: ../libgde2weather/weather.c:838 ../libgde2weather/weather.c:851
+#: ../libgde2weather/weather.c:869 ../libgde2weather/weather.c:887
+#: ../libgde2weather/weather.c:925 ../libgde2weather/weather.c:941
+#: ../libgde2weather/weather.c:964 ../libgde2weather/weather.c:996
+#: ../libgde2weather/weather.c:1012 ../libgde2weather/weather.c:1032
+msgid "Unknown"
+msgstr "Невядомы"
+
+#. TRANSLATOR: This is the temperature in degrees Fahrenheit (\302\260 is
+#. U+00B0 DEGREE SIGN)
+#: ../libgde2weather/weather.c:769
+#, c-format
+msgid "%.1f °F"
+msgstr "%.1f °F"
+
+#. TRANSLATOR: This is the temperature in degrees Fahrenheit (\302\260 is
+#. U+00B0 DEGREE SIGN)
+#: ../libgde2weather/weather.c:772
+#, c-format
+msgid "%d °F"
+msgstr "%d °F"
+
+#. TRANSLATOR: This is the temperature in degrees Celsius (\302\260 is U+00B0
+#. DEGREE SIGN)
+#: ../libgde2weather/weather.c:778
+#, c-format
+msgid "%.1f °C"
+msgstr "%.1f °C"
+
+#. TRANSLATOR: This is the temperature in degrees Celsius (\302\260 is U+00B0
+#. DEGREE SIGN)
+#: ../libgde2weather/weather.c:781
+#, c-format
+msgid "%d °C"
+msgstr "%d °C"
+
+#. TRANSLATOR: This is the temperature in kelvin
+#: ../libgde2weather/weather.c:787
+#, c-format
+msgid "%.1f K"
+msgstr "%.1f K"
+
+#. TRANSLATOR: This is the temperature in kelvin
+#: ../libgde2weather/weather.c:790
+#, c-format
+msgid "%d K"
+msgstr "%d K"
+
+#. TRANSLATOR: This is the humidity in percent
+#: ../libgde2weather/weather.c:872
+#, c-format
+msgid "%.f%%"
+msgstr "%.f%%"
+
+#. TRANSLATOR: This is the wind speed in knots
+#: ../libgde2weather/weather.c:900
+#, c-format
+msgid "%0.1f knots"
+msgstr "%0.1f вузлоў"
+
+#. TRANSLATOR: This is the wind speed in miles per hour
+#: ../libgde2weather/weather.c:904
+#, c-format
+msgid "%.1f mph"
+msgstr "%.1f міляў за гадзіну"
+
+#. TRANSLATOR: This is the wind speed in kilometers per hour
+#: ../libgde2weather/weather.c:908
+#, c-format
+msgid "%.1f km/h"
+msgstr "%.1f кіламетраў за гадзіну"
+
+#. TRANSLATOR: This is the wind speed in meters per second
+#: ../libgde2weather/weather.c:912
+#, c-format
+msgid "%.1f m/s"
+msgstr "%.1f м/с"
+
+#. TRANSLATOR: This is the wind speed as a Beaufort force factor
+#. * (commonly used in nautical wind estimation).
+#: ../libgde2weather/weather.c:918
+#, c-format
+msgid "Beaufort force %.1f"
+msgstr "Моц па Бафорту %.1f"
+
+#: ../libgde2weather/weather.c:943
+msgid "Calm"
+msgstr "Цішыня"
+
+#. TRANSLATOR: This is 'wind direction' / 'wind speed'
+#: ../libgde2weather/weather.c:947
+#, c-format
+msgid "%s / %s"
+msgstr "%s / %s"
+
+#. TRANSLATOR: This is pressure in inches of mercury
+#: ../libgde2weather/weather.c:969
+#, c-format
+msgid "%.2f inHg"
+msgstr "%.2f дзюймаў мэркура"
+
+#. TRANSLATOR: This is pressure in millimeters of mercury
+#: ../libgde2weather/weather.c:973
+#, c-format
+msgid "%.1f mmHg"
+msgstr "%.1f міліметраў мэркура"
+
+#. TRANSLATOR: This is pressure in kiloPascals
+#: ../libgde2weather/weather.c:977
+#, c-format
+msgid "%.2f kPa"
+msgstr "%.2f кілапаскаляў"
+
+#. TRANSLATOR: This is pressure in hectoPascals
+#: ../libgde2weather/weather.c:981
+#, c-format
+msgid "%.2f hPa"
+msgstr "%.2f гектапаскаляў"
+
+#. TRANSLATOR: This is pressure in millibars
+#: ../libgde2weather/weather.c:985
+#, c-format
+msgid "%.2f mb"
+msgstr "%.2f мілібараў"
+
+#. TRANSLATOR: This is pressure in atmospheres
+#: ../libgde2weather/weather.c:989
+#, c-format
+msgid "%.3f atm"
+msgstr "%.3f атмасфераў"
+
+#. TRANSLATOR: This is the visibility in miles
+#: ../libgde2weather/weather.c:1017
+#, c-format
+msgid "%.1f miles"
+msgstr "%.1f міляў"
+
+#. TRANSLATOR: This is the visibility in kilometers
+#: ../libgde2weather/weather.c:1021
+#, c-format
+msgid "%.1f km"
+msgstr "%.1f км"
+
+#. TRANSLATOR: This is the visibility in meters
+#: ../libgde2weather/weather.c:1025
+#, c-format
+msgid "%.0fm"
+msgstr "%.0f м"
+
+#: ../libgde2weather/weather.c:1054 ../libgde2weather/weather.c:1075
+msgid "%H:%M"
+msgstr "%H:%M"
+
+#: ../libgde2weather/weather.c:1134
+msgid "Retrieval failed"
+msgstr "Атрымаць звесткі не выйшла"

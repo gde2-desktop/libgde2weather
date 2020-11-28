@@ -1,0 +1,10829 @@
+# Old English Translation of gde2-applets-locations.
+# Copyright (C) 2004 The GDE2 Foundation
+# This file is distributed under the same license as the gde2-applets-locations package.
+# James Johnson <modean52@comcast.net>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gde2-applets-locations OE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-09-26 17:31+0100\n"
+"PO-Revision-Date: 2004-08-25 21:10-0600\n"
+"Last-Translator: James Johnson <modean52@comcast.net>\n"
+"Language-Team: Old English <modean52@comcast.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gde2weather/Locations.xml.in.h:1
+msgid "Aalborg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2
+msgid "Aarhus"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:3
+msgid "Abakan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:4
+msgid "Abbotsford"
+msgstr "Abbotes ford"
+
+#: gde2weather/Locations.xml.in.h:5
+msgid "Aberdeen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:6
+msgid "Abha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:7
+msgid "Abilene"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:8
+msgid "Abingdon"
+msgstr "Abban dún"
+
+#: gde2weather/Locations.xml.in.h:9
+msgid "Abu Dhabi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:10
+msgid "Abu Dhabi - Bateen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:11
+msgid "Acajutla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:12
+msgid "Acapulco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:13
+msgid "Acarigua"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:14
+msgid "Adak"
+msgstr "Adac"
+
+#: gde2weather/Locations.xml.in.h:15
+msgid "Adana"
+msgstr "Adana"
+
+#: gde2weather/Locations.xml.in.h:16
+msgid "Adana/Incirlik"
+msgstr "Adana/Incirlíc"
+
+#: gde2weather/Locations.xml.in.h:17
+msgid "Adelaide"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:18
+msgid "Aden"
+msgstr "Aden"
+
+#: gde2weather/Locations.xml.in.h:19
+msgid "Adrar"
+msgstr "Adrar"
+
+#: gde2weather/Locations.xml.in.h:20
+msgid "Aeroparque"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:21
+msgid "Aeropuerto del Norte"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:22
+msgid "Afonsos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:23
+msgid "Africa"
+msgstr "Africa"
+
+#: gde2weather/Locations.xml.in.h:24
+msgid "Afyon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:25
+msgid "Agen"
+msgstr "Ágen"
+
+#: gde2weather/Locations.xml.in.h:26
+msgid "Agrinio"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:27
+msgid "Aguascalientes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:28
+msgid "Ahmadabad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:29
+msgid "Ahwaz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:30
+msgid "Aigen Im Ennstal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:31
+msgid "Ainsworth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:32
+msgid "Air Force"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:33
+msgid "Ajaccio/Campo dell'Oro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:34
+msgid "Akeno Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:35
+msgid "Akita Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:36
+msgid "Akron"
+msgstr "Acron"
+
+#: gde2weather/Locations.xml.in.h:37
+msgid "Akrotiri"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:38
+msgid "Al Ahsa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:39
+msgid "Al Ain"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:40
+msgid "Al Baha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:41
+msgid "Al Qaysumah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:42
+msgid "Al-Jouf"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:43
+msgid "Alabama"
+msgstr "Alabama"
+
+#: gde2weather/Locations.xml.in.h:44
+msgid "Alamogordo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:45
+msgid "Alamosa"
+msgstr "Alamosa"
+
+#: gde2weather/Locations.xml.in.h:46
+msgid "Alaska"
+msgstr "Alasca"
+
+#: gde2weather/Locations.xml.in.h:47
+msgid "Albania"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:48
+msgid "Albany"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:49
+msgid "Albenga"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:50
+msgid "Alberta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:51
+msgid "Albuquerque"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:52
+msgid "Alderney"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:53
+msgid "Alert"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:54
+msgid "Alesund"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:55
+msgid "Alexandria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:56
+msgid "Alexandria-Esler"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:57
+msgid "Alexandria/Nouzha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:58
+msgid "Alexandroupoli"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:59
+msgid "Algeria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:60
+msgid "Alghero"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:61
+msgid "Algona"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:62
+msgid "Alicante"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:63
+msgid "Alice"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:64
+msgid "Alice Springs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:65
+msgid "Allentown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:66
+msgid "Alliance"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:67
+msgid "Alma"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:68
+msgid "Almeria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:69
+msgid "Alor Setar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:70
+msgid "Alpena"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:71
+msgid "Alta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:72
+msgid "Altamira"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:73
+msgid "Alton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:74
+msgid "Altoona"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:75
+msgid "Alturas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:76
+msgid "Altus"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:77
+msgid "Amami Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:78
+msgid "Amapala"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:79
+msgid "Amarillo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:80
+msgid "Amasya"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:81
+msgid "Ambler"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:82
+msgid "Amelia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:83
+msgid "Amendola"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:84
+msgid "Ames"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:85
+msgid "Amherst"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:86
+msgid "Amritsar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:87
+msgid "Amsterdam"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:88
+msgid "Anadyr"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:89
+msgid "Anaktuvuk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:90
+msgid "Anapa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:91
+msgid "Anchorage"
+msgstr ""
+
+#. TRANSLATOR: AFB is short for "Air Force Base"
+#: gde2weather/Locations.xml.in.h:93
+msgid "Anchorage - Elmendorf AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:94
+msgid "Ancona"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:95
+msgid "Andahuayla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:96
+msgid "Anderson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:97
+msgid "Andoya"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:98
+msgid "Andravida"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:99
+msgid "Andrews AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:100
+msgid "Angleton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:101
+msgid "Aniak"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:102
+msgid "Ankara/Esenboga"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:103
+msgid "Ankara/Etimesgut"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:104
+msgid "Ann Arbor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:105
+msgid "Annaba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:106
+msgid "Annette"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:107
+msgid "Anniston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:108
+msgid "Antalya"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:109
+msgid "Antigo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:110
+msgid "Antigua"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:111
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:112
+msgid "Antofagasta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:113
+msgid "Antwerpen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:114
+msgid "Aomori Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:115
+msgid "Apalachicola"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:116
+msgid "Appleton"
+msgstr "Æppeltún"
+
+#: gde2weather/Locations.xml.in.h:117
+msgid "Aquadilla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:118
+msgid "Aracaju"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:119
+msgid "Arad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:120
+msgid "Arar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:121
+msgid "Araxos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:122
+msgid "Arcata"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:123
+msgid "Ardmore"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:124
+msgid "Arequipa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:125
+msgid "Argentina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:126
+msgid "Arica"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:127
+msgid "Arizona"
+msgstr "Arisona"
+
+#: gde2weather/Locations.xml.in.h:128
+msgid "Arkansas"
+msgstr "Arcansas"
+
+#: gde2weather/Locations.xml.in.h:129
+msgid "Arkhangelsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:130
+msgid "Arlington"
+msgstr "Arlingtún"
+
+#: gde2weather/Locations.xml.in.h:131
+msgid "Artigas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:132
+msgid "Asahikawa Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:133
+msgid "Asahikawa Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:134
+msgid "Ashburnam"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:135
+msgid "Asheville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:136
+msgid "Ashfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:137
+msgid "Ashiya Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:138
+msgid "Ashland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:139
+msgid "Asia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:140
+msgid "Aspen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:141
+msgid "Asswan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:142
+msgid "Astoria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:143
+msgid "Astrakhan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:144
+msgid "Asturias"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:145
+msgid "Asuncion"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:146
+msgid "Athens"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:147
+msgid "Atikokan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:148
+msgid "Atlanta"
+msgstr ""
+
+#. TRANSLATOR: This is a place in Iowa
+#: gde2weather/Locations.xml.in.h:150
+msgid "Atlantic"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:151
+msgid "Atlantic City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:152
+msgid "Atlantic Ocean"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:153
+msgid "Atsugi US NAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:154
+msgid "Auburn"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:155
+msgid "Auckland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:156
+msgid "Augsburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:157
+msgid "Augusta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:158
+msgid "Aurora"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:159
+msgid "Austin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:160
+msgid "Australasia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:161
+msgid "Australia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:162
+msgid "Austria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:163
+msgid "Avalon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:164
+msgid "Aviano"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:165
+msgid "Ayacucho"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:166
+msgid "Bage"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:167
+msgid "Bagotville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:168
+msgid "Bahamas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:169
+msgid "Bahia Blanca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:170
+msgid "Bahias de Huatulco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:171
+msgid "Bahrain"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:172
+msgid "Baker City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:173
+msgid "Baker Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:174
+msgid "Bakersfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:175
+msgid "Bale-Mulhouse"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:176
+msgid "Balikesir"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:177
+msgid "Balikesir/Bandirma"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:178
+msgid "Ball Mountain"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:179
+msgid "Baltimore"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:180
+msgid "Baltimore-Glen Burnie"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:181
+msgid "Baltsi-Leadoveni"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:182
+msgid "Banak"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:183
+msgid "Bandarabbass"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:184
+msgid "Bangalore"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:185
+msgid "Bangor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:186
+msgid "Bar Harbor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:187
+msgid "Baracoa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:188
+msgid "Barbers Point"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:189
+msgid "Barcelona"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:190
+msgid "Bardufoss"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:191
+msgid "Bari"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:192
+msgid "Bariloche"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:193
+msgid "Barinas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:194
+msgid "Barking Sand"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:195
+msgid "Barksdale"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:196
+msgid "Barkston Heath"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:197
+msgid "Barnaul"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:198
+msgid "Barquisimeto"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:199
+msgid "Barranquilla/Ernestocortissoz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:200
+msgid "Barrie"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:201
+msgid "Barrow"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:202
+msgid "Barter Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:203
+msgid "Bartlesville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:204
+msgid "Bartow"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:205
+msgid "Bastia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:206
+msgid "Batesville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:207
+msgid "Batman"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:208
+msgid "Baton Rouge"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:209
+msgid "Battle Creek"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:210
+msgid "Battle Mountain"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:211
+msgid "Bauru"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:212
+msgid "Bayamo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:213
+msgid "Bayreuth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:214
+msgid "Beatrice"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:215
+msgid "Beaufort"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:216
+msgid "Beaumont"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:217
+msgid "Beaumont-Port Arthur"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:218
+msgid "Beauvais-Tille"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:219
+msgid "Beauvechain"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:220
+msgid "Beckley"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:221
+msgid "Bedford"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:222
+msgid "Beijing"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:223
+msgid "Beirut"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:224
+msgid "Beja"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:225
+msgid "Belem"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:226
+msgid "Belfast/Aldergrove"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:227
+msgid "Belfast/City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:228
+msgid "Belgium"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:229
+msgid "Belgorod"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:230
+msgid "Belize"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:231
+msgid "Belleville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:232
+msgid "Bellingham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:233
+msgid "Belmar-Farmingdale"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:234
+msgid "Belo Horizonte"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:235
+msgid "Belo Horizonte Apt"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:236
+msgid "Bemidji"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:237
+msgid "Ben-Gurion"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:238
+msgid "Benbecula"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:239
+msgid "Benina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:240
+msgid "Benson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:241
+msgid "Benton Harbor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:242
+msgid "Bentonville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:243
+msgid "Beograd"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:244
+msgid "Bergamo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:245
+msgid "Bergen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:246
+msgid "Bergstrom AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:247
+msgid "Berlevag"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:248
+msgid "Berlin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:249
+msgid "Berlin-Tegel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:250
+msgid "Berlin-Tempelhof"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:251
+msgid "Bern"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:252
+msgid "Bethel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:253
+msgid "Bethlehem Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:254
+msgid "Bettles"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:255
+msgid "Beverly"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:256
+msgid "Biarritz-Bayonne"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:257
+msgid "Bicycle Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:258
+msgid "Big Piney"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:259
+msgid "Big River Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:260
+msgid "Biggin Hill"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:261
+msgid "Bilbao"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:262
+msgid "Billings"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:263
+msgid "Billund"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:264
+msgid "Binghamton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:265
+msgid "Bintulu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:266
+msgid "Birmingham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:267
+msgid "Bisha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:268
+msgid "Bishop"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:269
+msgid "Bismarck"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:270
+msgid "Blackpool"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:271
+msgid "Blagoveschensk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:272
+msgid "Blanding"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:273
+msgid "Block Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:274
+msgid "Bloemfontein J. B. M. Hertzog"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:275
+msgid "Bloomington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:276
+msgid "Blue Canyon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:277
+msgid "Bluefield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:278
+msgid "Bluefields"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:279
+msgid "Blythe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:280
+msgid "Boa Vista"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:281
+msgid "Bocas del Toro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:282
+msgid "Bodo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:283
+msgid "Bogota/Eldorado"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:284
+msgid "Boise"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:285
+msgid "Bolivia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:286
+msgid "Bologna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:287
+msgid "Bolzano"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:288
+msgid "Bombay/Santacruz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:289
+msgid "Boone"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:290
+msgid "Bordeaux"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:291
+msgid "Borger"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:292
+msgid "Borlange"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:293
+msgid "Bornholm"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:294
+msgid "Boryspil"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:295
+msgid "Boscombe Down"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:296
+msgid "Bosnia-Herzegovina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:297
+msgid "Boston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:298
+msgid "Boulmer"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:299
+msgid "Bourges"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:300
+msgid "Bournemouth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:301
+msgid "Bowling Green"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:302
+msgid "Bozeman"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:303
+msgid "Bradford"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:304
+msgid "Bradshaw Field"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:305
+msgid "Brainerd"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:306
+msgid "Brandon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:307
+msgid "Brasilia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:308
+msgid "Brasschaat"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:309
+msgid "Bratislava"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:310
+msgid "Bratsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:311
+msgid "Braunschweig"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:312
+msgid "Brazil"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:313
+msgid "Bremen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:314
+msgid "Bremerton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:315
+msgid "Brest"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:316
+msgid "Bridgeport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:317
+msgid "Brindisi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:318
+msgid "Brisbane"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:319
+msgid "Bristol"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:320
+msgid "Bristol Filton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:321
+msgid "British Columbia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:322
+msgid "Brize Norton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:323
+msgid "Brno"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:324
+msgid "Broadus"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:325
+msgid "Broken Bow"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:326
+msgid "Bronnoysund"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:327
+msgid "Brookings"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:328
+msgid "Brooksville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:329
+msgid "Broome"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:330
+msgid "Brownsville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:331
+msgid "Brunswick"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:332
+msgid "Bryansk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:333
+msgid "Bryce Canyon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:334
+msgid "Bucaramanga/Palonegro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:335
+msgid "Bucuresti"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:336
+msgid "Bucuresti-Otopeni"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:337
+msgid "Budapest"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:338
+msgid "Buffalo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:339
+msgid "Bulgaria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:340
+msgid "Bullfrog"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:341
+msgid "Burbank"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:342
+msgid "Burgas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:343
+msgid "Burley"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:344
+msgid "Burlington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:345
+msgid "Burnet"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:346
+msgid "Burns"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:347
+msgid "Bursa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:348
+msgid "Burwell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:349
+msgid "Butte"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:350
+msgid "Békéscsaba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:351
+msgid "Caen-Carpiquet"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:352
+msgid "Cagliari"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:353
+msgid "Cairns"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:354
+msgid "Cairo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:355
+msgid "Calabozo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:356
+msgid "Calcutta/Dum Dum"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:357
+msgid "Caldwell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:358
+msgid "Calgary"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:359
+msgid "Cali/Alfonso Bonillaaragon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:360
+msgid "Caliente"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:361
+msgid "California"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:362
+msgid "Calvi-Ste-Catherine"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:363
+msgid "Camaguey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:364
+msgid "Camarillo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:365
+msgid "Cambridge"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:366
+msgid "Cameron"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:367
+msgid "Camiri"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:368
+msgid "Camp Stanley/H-207"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:369
+msgid "Campeche"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:370
+msgid "Campinas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:371
+msgid "Campo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:372
+msgid "Campo Grande"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:373
+msgid "Canaan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:374
+msgid "Canada"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:375
+msgid "Canarias/Fuerteventura"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:376
+msgid "Canarias/Gran Canaria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:377
+msgid "Canarias/Hierro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:378
+msgid "Canarias/La Palma"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:379
+msgid "Canarias/Lanzarote"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:380
+msgid "Canarias/Tenerife Norte"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:381
+msgid "Canarias/Tenerife Sur"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:382
+msgid "Canberra"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:383
+msgid "Cancun"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:384
+msgid "Cannes-Mandelieu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:385
+msgid "Cantwell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:386
+msgid "Cape Girardeau"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:387
+msgid "Cape Hatteras"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:388
+msgid "Cape Lisburne"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:389
+msgid "Cape Newenham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:390
+msgid "Cape Romanzoff"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:391
+msgid "Cape Town D. F. Malan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:392
+msgid "Capitan Corbeta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:393
+msgid "Capo Mele"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:394
+msgid "Caracas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:395
+msgid "Caravelas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:396
+msgid "Carbondale"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:397
+msgid "Cardiff"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:398
+msgid "Caribou"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:399
+msgid "Carlisle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:400
+msgid "Carlsbad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:401
+msgid "Carroll"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:402
+msgid "Cartagena/Rafael Nunez"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:403
+msgid "Casa Grande"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:404
+msgid "Cascade"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:405
+msgid "Casper"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:406
+msgid "Catacamas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:407
+msgid "Catania"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:408
+msgid "Cayman Islands"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:409
+msgid "Cayo Largo del Sur"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:410
+msgid "Cazaux"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:411
+msgid "Cecil Field NAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:412
+msgid "Cedar City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:413
+msgid "Cedar Rapids"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:414
+msgid "Central and South America"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:415
+msgid "Cervia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:416
+msgid "Chacarita"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:417
+msgid "Chadron"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:418
+msgid "Challis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:419
+msgid "Chamberlain"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:420
+msgid "Chambéry"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:421
+msgid "Champaign"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:422
+msgid "Chandalar Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:423
+msgid "Chandler"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:424
+msgid "Chania"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:425
+msgid "Chantilly-Dulles Arpt"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:426
+msgid "Chanute"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:427
+msgid "Chariton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:428
+msgid "Charleroi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:429
+msgid "Charles City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:430
+msgid "Charleston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:431
+msgid "Charlotte"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:432
+msgid "Charlottesville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:433
+msgid "Charlottetown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:434
+msgid "Chatham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:435
+msgid "Chattanooga"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:436
+msgid "Cheboksary"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:437
+msgid "Cheju"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:438
+msgid "Chelyabinsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:439
+msgid "Chengdu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:440
+msgid "Cherbourg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:441
+msgid "Cherkasy"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:442
+msgid "Chernovsty"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:443
+msgid "Cherry Point"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:444
+msgid "Chetumal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:445
+msgid "Cheyenne"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:446
+msgid "Chia Tung"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:447
+msgid "Chiang Kai Shek"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:448
+msgid "Chiang Mai"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:449
+msgid "Chiayi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:450
+msgid "Chicago-DuPage"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:451
+msgid "Chicago-Lakefront"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:452
+msgid "Chicago-Midway"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:453
+msgid "Chicago-O'Hare"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:454
+msgid "Chichijima"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:455
+msgid "Chiclayo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:456
+msgid "Chico"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:457
+msgid "Chicopee Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:458
+msgid "Chievres"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:459
+msgid "Chihhang"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:460
+msgid "Chihuahua"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:461
+msgid "Childress"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:462
+msgid "Chile"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:463
+msgid "China Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:464
+msgid "Chinandega"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:465
+msgid "Chinmem/Shatou"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:466
+msgid "Chino"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:467
+msgid "Chios"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:468
+msgid "Chippewa County"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:469
+msgid "Chita"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:470
+msgid "Chitose ASDF"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:471
+msgid "Chitose Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:472
+msgid "Chofu Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:473
+msgid "Choluteca"
+msgstr ""
+
+#. TRANSLATOR: I _think_ Ab is short for airport
+#: gde2weather/Locations.xml.in.h:475
+msgid "Chongju Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:476
+msgid "Christchurch"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:477
+msgid "Christmas Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:478
+msgid "Chulitna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:479
+msgid "Churchill"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:480
+msgid "Churchill Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:481
+msgid "Cincinnati"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:482
+msgid "Circle City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:483
+msgid "Ciudad Bolivar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:484
+msgid "Ciudad Juarez"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:485
+msgid "Ciudad Obregon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:486
+msgid "Ciudad Victoria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:487
+msgid "Ciudad del Carmen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:488
+msgid "Clarinda"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:489
+msgid "Clarion"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:490
+msgid "Clarksburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:491
+msgid "Clayton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:492
+msgid "Clayton Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:493
+msgid "Clermont-Ferrand"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:494
+msgid "Cleveland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:495
+msgid "Cleveland-Lakefront"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:496
+msgid "Cleveland/Cuyahoga"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:497
+msgid "Clinton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:498
+msgid "Clovis-Cannon AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:499
+msgid "Cobija"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:500
+msgid "Cochabamba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:501
+msgid "Cocoa Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:502
+msgid "Cocos Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:503
+msgid "Cody"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:504
+msgid "Coeur d'Alene"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:505
+msgid "Cold Bay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:506
+msgid "Colima"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:507
+msgid "College Station"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:508
+msgid "Colmar-Meyenheim"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:509
+msgid "Colombia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:510
+msgid "Colonia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:511
+msgid "Colorado"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:512
+msgid "Colorado Springs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:513
+msgid "Coltishall"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:514
+msgid "Columbia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:515
+msgid "Columbia-McEntire"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:516
+msgid "Columbus"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:517
+msgid "Columbus-Fort Benning"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:518
+msgid "Columbus-Gahanna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:519
+msgid "Columbus-OSU"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:520
+msgid "Columbus-W Point-Starkville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:521
+msgid "Colville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:522
+msgid "Comodoro Rivadavia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:523
+msgid "Comox"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:524
+msgid "Conceicao Do Araguaia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:525
+msgid "Concepcion"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:526
+msgid "Concord"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:527
+msgid "Concordia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:528
+msgid "Coningsby"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:529
+msgid "Connaught"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:530
+msgid "Connecticut"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:531
+msgid "Conroe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:532
+msgid "Constantine"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:533
+msgid "Copper Harbor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:534
+msgid "Cordoba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:535
+msgid "Cordoba/Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:536
+msgid "Cordova"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:537
+msgid "Cork"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:538
+msgid "Coro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:539
+msgid "Corona"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:540
+msgid "Corpus Christi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:541
+msgid "Corpus Christi NAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:542
+msgid "Corrientes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:543
+msgid "Corsicana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:544
+msgid "Cortez"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:545
+msgid "Corumba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:546
+msgid "Cosford"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:547
+msgid "Costa Rica"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:548
+msgid "Cotulla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:549
+msgid "Council Bluffs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:550
+msgid "Coventry"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:551
+msgid "Covington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:552
+msgid "Cozumel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:553
+msgid "Craig"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:554
+msgid "Cranfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:555
+msgid "Cranwell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:556
+msgid "Crescent City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:557
+msgid "Creston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:558
+msgid "Crestview"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:559
+msgid "Croatia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:560
+msgid "Cross City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:561
+msgid "Crossville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:562
+msgid "Crotone"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:563
+msgid "Cuba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:564
+msgid "Cuba Awrs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:565
+msgid "Cuernavaca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:566
+msgid "Cuiaba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:567
+msgid "Culdrose"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:568
+msgid "Culiacan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:569
+msgid "Cumana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:570
+msgid "Cumberland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:571
+msgid "Curitiba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:572
+msgid "Curitiba Apt"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:573
+msgid "Custer"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:574
+msgid "Cut Bank"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:575
+msgid "Cuzco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:576
+msgid "Cyprus"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:577
+msgid "Czech Republic"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:578
+msgid "Da Nang"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:579
+msgid "Dagali"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:580
+msgid "Daggett"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:581
+msgid "Dalhart"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:582
+msgid "Dalian"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:583
+msgid "Dallas-Addison"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:584
+msgid "Dallas-Fort Worth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:585
+msgid "Dallas-Love Field"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:586
+msgid "Dallas-Redbird"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:587
+msgid "Danbury"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:588
+msgid "Danville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:589
+msgid "Dar-El-Beida"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:590
+msgid "Davenport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:591
+msgid "David"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:592
+msgid "Dawadmi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:593
+msgid "Dayton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:594
+msgid "Dayton-Fairborn"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:595
+msgid "Dayton-South Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:596
+msgid "Daytona Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:597
+msgid "Dead Horse"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:598
+msgid "Deauville-Saint-Gatien"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:599
+msgid "Debrecen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:600
+msgid "Decatur"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:601
+msgid "Decimomannu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:602
+msgid "Decorah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:603
+msgid "Deelen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:604
+msgid "Dekalb/Peachtree"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:605
+msgid "Del Bajio"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:606
+msgid "Del Rio"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:607
+msgid "Delaware"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:608
+msgid "Delta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:609
+msgid "Deming"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:610
+msgid "Den Helder/De Kooy"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:611
+msgid "Denison"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:612
+msgid "Denmark"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:613
+msgid "Denton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:614
+msgid "Denver Centennial Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:615
+msgid "Denver International Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:616
+msgid "Denver-Aurora Buckley Air Force Base"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:617
+msgid "Denver-Broomfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:618
+msgid "Des Moines"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:619
+msgid "Desert Rock"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:620
+msgid "Destin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:621
+msgid "Detroit"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:622
+msgid "Detroit Lakes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:623
+msgid "Detroit-Taylor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:624
+msgid "Detroit/Ypsilanti"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:625
+msgid "Devils Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:626
+msgid "Devils Lake (2)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:627
+msgid "Dhahran"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:628
+msgid "Dickinson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:629
+msgid "Dijon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:630
+msgid "Dillingham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:631
+msgid "Dillon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:632
+msgid "Dinard"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:633
+msgid "Dishforth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:634
+msgid "District of Columbia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:635
+msgid "Diyarbakir"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:636
+msgid "Dnipropetrovs'k"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:637
+msgid "Dobbiaco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:638
+msgid "Dodge City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:639
+msgid "Doha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:640
+msgid "Dole"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:641
+msgid "Dominican Republic"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:642
+msgid "Don Muang"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:643
+msgid "Don Torcuato"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:644
+msgid "Donets'k"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:645
+msgid "Dongsha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:646
+msgid "Dongshi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:647
+msgid "Dortmund-Wickede"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:648
+msgid "Dothan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:649
+msgid "Douglas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:650
+msgid "Dover"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:651
+msgid "Drummond"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:652
+msgid "Du Bois"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:653
+msgid "Dubai"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:654
+msgid "Dubbo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:655
+msgid "Dublin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:656
+msgid "Dubrovnik"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:657
+msgid "Dubuque"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:658
+msgid "Dugway"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:659
+msgid "Duluth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:660
+msgid "Dundee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:661
+msgid "Durango"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:662
+msgid "Durango Awrs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:663
+msgid "Durazno"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:664
+msgid "Durban Louis Botha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:665
+msgid "Dusseldorf"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:666
+msgid "Dutch Harbor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:667
+msgid "Dyersburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:668
+msgid "Eagle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:669
+msgid "Eagle Range"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:670
+msgid "East &amp; South East"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:671
+msgid "East London"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:672
+msgid "East Midlands"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:673
+msgid "East St Louis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:674
+msgid "Eau Claire"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:675
+msgid "Ecuador"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:676
+msgid "Edinburgh"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:677
+msgid "Edmonton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:678
+msgid "Eduardo Gomes International"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:679
+msgid "Edwards AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:680
+msgid "Egilsstadir"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:681
+msgid "Eglin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:682
+msgid "Egypt"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:683
+msgid "Eindhoven"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:684
+msgid "Ekofisk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:685
+msgid "El Centro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:686
+msgid "El Dorado"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:687
+msgid "El Monte"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:688
+msgid "El Paso"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:689
+msgid "El Salvador"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:690
+msgid "El Salvador Int."
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:691
+msgid "Elazig"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:692
+msgid "Elefsina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:693
+msgid "Elfin Cove"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:694
+msgid "Elizabeth City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:695
+msgid "Elk City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:696
+msgid "Elkhart"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:697
+msgid "Elkins"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:698
+msgid "Elko"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:699
+msgid "Elmira"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:700
+msgid "Elsenborn"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:701
+msgid "Ely"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:702
+msgid "Emmonak"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:703
+msgid "Emporia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:704
+msgid "Enid"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:705
+msgid "Enid/Woodring"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:706
+msgid "Enosburg Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:707
+msgid "Ephrata"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:708
+msgid "Ercan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:709
+msgid "Erie"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:710
+msgid "Erzurum"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:711
+msgid "Esbjerg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:712
+msgid "Escanaba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:713
+msgid "Esfahan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:714
+msgid "Eskisehir"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:715
+msgid "Estherville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:716
+msgid "Estonia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:717
+msgid "Eugene"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:718
+msgid "Eureka"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:719
+msgid "Europe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:720
+msgid "Evanston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:721
+msgid "Evansville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:722
+msgid "Everett"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:723
+msgid "Evergreen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:724
+msgid "Evreux-Fauville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:725
+msgid "Exeter"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:726
+msgid "Ezeiza"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:727
+msgid "FYR Macedonia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:728
+msgid "Fagernes"
+msgstr "Fagernes"
+
+#: gde2weather/Locations.xml.in.h:729
+msgid "Fairbanks"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:730
+msgid "Fairbanks/Eielson AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:731
+msgid "Fairchild"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:732
+msgid "Fairfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:733
+msgid "Fairmont"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:734
+msgid "Fallon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:735
+msgid "Falls City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:736
+msgid "Falmouth-Otis AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:737
+msgid "Fargo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:738
+msgid "Farmingdale"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:739
+msgid "Farmington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:740
+msgid "Farmville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:741
+msgid "Farnborough"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:742
+msgid "Faro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:743
+msgid "Fayetteville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:744
+msgid "Feng Nin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:745
+msgid "Fergus Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:746
+msgid "Fernando De Noronha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:747
+msgid "Ferrara"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:748
+msgid "Figari"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:749
+msgid "Findlay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:750
+msgid "Finland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:751
+msgid "Firenze"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:752
+msgid "Fitchburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:753
+msgid "Flagstaff"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:754
+msgid "Flint"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:755
+msgid "Flippin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:756
+msgid "Florence"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:757
+msgid "Florennes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:758
+msgid "Flores"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:759
+msgid "Florianopolis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:760
+msgid "Florida"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:761
+msgid "Floro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:762
+msgid "Fond Du Lac"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:763
+msgid "Forde/Bringeland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:764
+msgid "Forli"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:765
+msgid "Formosa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:766
+msgid "Fort Belvoir"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:767
+msgid "Fort Benning"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:768
+msgid "Fort Bragg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:769
+msgid "Fort Campbell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:770
+msgid "Fort Carson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:771
+msgid "Fort Collins"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:772
+msgid "Fort Collins/Lovel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:773
+msgid "Fort Dodge"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:774
+msgid "Fort Drum"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:775
+msgid "Fort Eustis"
+msgstr ""
+
+#. TRANSLATOR: AAF is short for "Army Air Field"
+#: gde2weather/Locations.xml.in.h:777
+msgid "Fort Greely/Allen AAF"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:778
+msgid "Fort Huachuca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:779
+msgid "Fort Knox"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:780
+msgid "Fort Lauderdale"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:781
+msgid "Fort Lauderdale (International)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:782
+msgid "Fort Leonard"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:783
+msgid "Fort Lewis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:784
+msgid "Fort Madison"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:785
+msgid "Fort Meade"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:786
+msgid "Fort Myers (Page Field)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:787
+msgid "Fort Myers (Southwest Florida International)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:788
+msgid "Fort Polk-Leesville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:789
+msgid "Fort Riley"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:790
+msgid "Fort Sill"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:791
+msgid "Fort Smith"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:792
+msgid "Fort Stewart"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:793
+msgid "Fort Stockton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:794
+msgid "Fort Wayne"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:795
+msgid "Fort Worth NAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:796
+msgid "Fort Worth-Alliance"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:797
+msgid "Fort Worth-Meacham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:798
+msgid "Fortaleza"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:799
+msgid "Fourchon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:800
+msgid "Foz Do Iguacu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:801
+msgid "France"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:802
+msgid "Frankfort"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:803
+msgid "Frankfurt/Main"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:804
+msgid "Franklin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:805
+msgid "Fredericksburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:806
+msgid "Fredericton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:807
+msgid "Freeport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:808
+msgid "Frenchville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:809
+msgid "Fresno"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:810
+msgid "Fresno-Chandler"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:811
+msgid "Friday Harbor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:812
+msgid "Friedrichshafen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:813
+msgid "Frigg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:814
+msgid "Frobisher"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:815
+msgid "Frontone"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:816
+msgid "Frosinone"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:817
+msgid "Fryeburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:818
+msgid "Fujairah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:819
+msgid "Fuji Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:820
+msgid "Fukue Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:821
+msgid "Fukui Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:822
+msgid "Fukuoka Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:823
+msgid "Fullerton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:824
+msgid "Funchal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:825
+msgid "Gadsden"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:826
+msgid "Gage"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:827
+msgid "Gainesville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:828
+msgid "Galax-Hillsville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:829
+msgid "Galbraith Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:830
+msgid "Galeao"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:831
+msgid "Galena"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:832
+msgid "Galesburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:833
+msgid "Gallivare"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:834
+msgid "Gallup"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:835
+msgid "Galveston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:836
+msgid "Gambell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:837
+msgid "Gander"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:838
+msgid "Garden City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:839
+msgid "Gary"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:840
+msgid "Gassim"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:841
+msgid "Gatineau"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:842
+msgid "Gavle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:843
+msgid "Gaziantep"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:844
+msgid "Gdansk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:845
+msgid "Geneve"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:846
+msgid "Genova"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:847
+msgid "George Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:848
+msgid "Georgetown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:849
+msgid "Georgia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:850
+msgid "Germany"
+msgstr "Þéodiscland"
+
+#: gde2weather/Locations.xml.in.h:851
+msgid "Ghardaia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:852
+msgid "Ghedi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:853
+msgid "Gibraltar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:854
+msgid "Gifu Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:855
+msgid "Gila Bend"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:856
+msgid "Gillette"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:857
+msgid "Gilze-Rijen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:858
+msgid "Gioia del Colle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:859
+msgid "Girona"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:860
+msgid "Gizan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:861
+msgid "Glasgow"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:862
+msgid "Glendive"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:863
+msgid "Glens Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:864
+msgid "Gloucestershire"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:865
+msgid "Goetsenhoven"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:866
+msgid "Goiania"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:867
+msgid "Goldsboro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:868
+msgid "Goodland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:869
+msgid "Goose Bay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:870
+msgid "Goteborg (Landvetter)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:871
+msgid "Goteborg (Save)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:872
+msgid "Granada"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:873
+msgid "Grand Canyon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:874
+msgid "Grand Cayman"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:875
+msgid "Grand Forks"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:876
+msgid "Grand Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:877
+msgid "Grand Isle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:878
+msgid "Grand Junction"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:879
+msgid "Grand Marais"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:880
+msgid "Grand Rapids"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:881
+msgid "Grandview"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:882
+msgid "Grangeville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:883
+msgid "Grants"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:884
+msgid "Graz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:885
+msgid "Great Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:886
+msgid "Greece"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:887
+msgid "Greeley"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:888
+msgid "Green Bay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:889
+msgid "Green River"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:890
+msgid "Greensboro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:891
+msgid "Greenville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:892
+msgid "Greenville-Spartanburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:893
+msgid "Greenwood"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:894
+msgid "Grenoble-Saint-Geoirs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:895
+msgid "Griffiss AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:896
+msgid "Groningen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:897
+msgid "Grosseto"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:898
+msgid "Groton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:899
+msgid "Guadalajara"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:900
+msgid "Guadalupe Pass"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:901
+msgid "Guanare"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:902
+msgid "Guangzhou"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:903
+msgid "Guantanamo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:904
+msgid "Guarany"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:905
+msgid "Guaratingueta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:906
+msgid "Guarulhos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:907
+msgid "Guatemala"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:908
+msgid "Guayaquil/Simon Bolivar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:909
+msgid "Guaymas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:910
+msgid "Guernsey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:911
+msgid "Guidonia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:912
+msgid "Gulfport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:913
+msgid "Gulkana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:914
+msgid "Gullfax C"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:915
+msgid "Gunnison"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:916
+msgid "Gunnison (2)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:917
+msgid "Guriat"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:918
+msgid "Gustavus"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:919
+msgid "Guymon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:920
+msgid "Ha Noi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:921
+msgid "Habana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:922
+msgid "Hachijojima Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:923
+msgid "Hachinohe Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:924
+msgid "Hafr Al-Batin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:925
+msgid "Hagerstown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:926
+msgid "Hail"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:927
+msgid "Hailey-Sun Valley"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:928
+msgid "Haines"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:929
+msgid "Haiti"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:930
+msgid "Hakodate Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:931
+msgid "Halifax"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:932
+msgid "Halmstad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:933
+msgid "Hamamatsu Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:934
+msgid "Hamburg"
+msgstr "Hámburg"
+
+#: gde2weather/Locations.xml.in.h:935
+msgid "Hamburg-Finkenwerder"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:936
+msgid "Hamilton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:937
+msgid "Hammerfest"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:938
+msgid "Hampton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:939
+msgid "Hanamaki Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:940
+msgid "Hancock"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:941
+msgid "Hangzhou"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:942
+msgid "Hanksville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:943
+msgid "Hannover"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:944
+msgid "Harbor Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:945
+msgid "Harlingen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:946
+msgid "Harlowton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:947
+msgid "Harrisburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:948
+msgid "Harrison"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:949
+msgid "Harstad/Narvik/Evenes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:950
+msgid "Hartford"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:951
+msgid "Hassi-Messaoud"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:952
+msgid "Hastings"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:953
+msgid "Hat Yai"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:954
+msgid "Haugesund"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:955
+msgid "Havre"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:956
+msgid "Hawaii"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:957
+msgid "Hawarden"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:958
+msgid "Hawthorne"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:959
+msgid "Hayden"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:960
+msgid "Hayes River"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:961
+msgid "Hays"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:962
+msgid "Hayward"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:963
+msgid "Healy River"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:964
+msgid "Helena"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:965
+msgid "Helsinki-Malmi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:966
+msgid "Helsinki-Vantaa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:967
+msgid "Henderson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:968
+msgid "Hengchun"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:969
+msgid "Hermosillo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:970
+msgid "Hibbing"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:971
+msgid "Hickory"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:972
+msgid "Hill City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:973
+msgid "Hillsboro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:974
+msgid "Hilo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:975
+msgid "Hinesville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:976
+msgid "Hiroshima Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:977
+msgid "Ho Chi Minh"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:978
+msgid "Hobart"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:979
+msgid "Hobbs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:980
+msgid "Hodeidah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:981
+msgid "Hof"
+msgstr "Hof"
+
+#: gde2weather/Locations.xml.in.h:982
+msgid "Hoffman"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:983
+msgid "Hofu Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:984
+msgid "Hohenems"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:985
+msgid "Holbeach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:986
+msgid "Holguin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:987
+msgid "Homer"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:988
+msgid "Homestead AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:989
+msgid "Hondo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:990
+msgid "Honduras"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:991
+msgid "Hong Kong"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:992
+msgid "Honningsvag"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:993
+msgid "Honolulu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:994
+msgid "Hoonah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:995
+msgid "Hoquiam"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:996
+msgid "Horta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:997
+msgid "Hostomel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:998
+msgid "Hot Springs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:999
+msgid "Houghton Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1000
+msgid "Houlton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1001
+msgid "Houma"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1002
+msgid "Houston-Bush"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1003
+msgid "Houston-Clover"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1004
+msgid "Houston-Ellington Field"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1005
+msgid "Houston-Hobby"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1006
+msgid "Houston-Hooks"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1007
+msgid "Howard AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1008
+msgid "Hsinchu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1009
+msgid "Huanuco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1010
+msgid "Huehuetenango"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1011
+msgid "Hulien"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1012
+msgid "Humberside"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1013
+msgid "Hungary"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1014
+msgid "Huntington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1015
+msgid "Huntsville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1016
+msgid "Hurlburt Field"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1017
+msgid "Huron"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1018
+msgid "Hutchinson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1019
+msgid "Hyakuri Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1020
+msgid "Hyannis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1021
+msgid "Hyderabad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1022
+msgid "Hyeres-Le Palyvestre"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1023
+msgid "Iasi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1024
+msgid "Ibiza"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1025
+msgid "Iceland"
+msgstr "Ísland"
+
+#: gde2weather/Locations.xml.in.h:1026
+msgid "Ichikawa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1027
+msgid "Idaho"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1028
+msgid "Idaho Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1029
+msgid "Iguazu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1030
+msgid "Iki Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1031
+msgid "Ilan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1032
+msgid "Iliamna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1033
+msgid "Illinois"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1034
+msgid "Imperial"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1035
+msgid "Imperial (2)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1036
+msgid "Imperial Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1037
+msgid "In Amenas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1038
+msgid "India"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1039
+msgid "Indian Springs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1040
+msgid "Indiana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1041
+msgid "Indianapolis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1042
+msgid "Innsbruck"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1043
+msgid "Intercostal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1044
+msgid "International Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1045
+msgid "Inverness"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1046
+msgid "Inyokern"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1047
+msgid "Iowa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1048
+msgid "Iowa City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1049
+msgid "Iqaluit"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1050
+msgid "Iquique/Diego Arac"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1051
+msgid "Iquitos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1052
+msgid "Iraklio"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1053
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1054
+msgid "Ireland"
+msgstr "Írland"
+
+#: gde2weather/Locations.xml.in.h:1055
+msgid "Iron Mountain"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1056
+msgid "Ironwood"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1057
+msgid "Iruma Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1058
+msgid "Islamabad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1059
+msgid "Islay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1060
+msgid "Isle of Man"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1061
+msgid "Islip"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1062
+msgid "Israel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1063
+msgid "Istanbul"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1064
+msgid "Itaituba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1065
+msgid "Italy"
+msgstr "Italia"
+
+#: gde2weather/Locations.xml.in.h:1066
+msgid "Ithaca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1067
+msgid "Ivalo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1068
+msgid "Ivano-Frankivs'k"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1069
+msgid "Iwakuni MCAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1070
+msgid "Iwojima"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1071
+msgid "Ixtapa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1072
+msgid "Izmir/Adnan Menderes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1073
+msgid "Izmir/Cigli"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1074
+msgid "Izmit"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1075
+msgid "Izumo Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1076
+msgid "Jackson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1077
+msgid "Jacksonville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1078
+msgid "Jacksonville NAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1079
+msgid "Jacksonville-Craig Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1080
+msgid "Jaffrey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1081
+msgid "Jaipur/Sanganer"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1082
+msgid "Jamaica"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1083
+msgid "Jamestown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1084
+msgid "Jan Smuts"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1085
+msgid "Janesville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1086
+msgid "Japan"
+msgstr "Nippon"
+
+#: gde2weather/Locations.xml.in.h:1087
+msgid "Jeddah King Abdul Aziz International Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1088
+msgid "Jefferson City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1089
+msgid "Jerez"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1090
+msgid "Jersey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1091
+msgid "Jinotega"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1092
+msgid "Johan A. Pengel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1093
+msgid "Johnstown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1094
+msgid "Johor Bahru"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1095
+msgid "Jonesboro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1096
+msgid "Jonkoping"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1097
+msgid "Joplin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1098
+msgid "Jordan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1099
+msgid "Juan Santamaria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1100
+msgid "Juanjui"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1101
+msgid "Juigalpa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1102
+msgid "Jujuy"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1103
+msgid "Juliaca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1104
+msgid "Junction"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1105
+msgid "Juneau"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1106
+msgid "Jyvaskyla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1107
+msgid "Kadena Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1108
+msgid "Kagoshima Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1109
+msgid "Kahului"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1110
+msgid "Kailua-Kona"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1111
+msgid "Kake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1112
+msgid "Kalamata"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1113
+msgid "Kalamazoo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1114
+msgid "Kalispell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1115
+msgid "Kalmar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1116
+msgid "Kamigoto"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1117
+msgid "Kaneohe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1118
+msgid "Kangshan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1119
+msgid "Kanoya Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1120
+msgid "Kansai International Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1121
+msgid "Kansas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1122
+msgid "Kansas City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1123
+msgid "Kansas City-Gladstone"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1124
+msgid "Kaohsiung"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1125
+msgid "Karachi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1126
+msgid "Kardla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1127
+msgid "Karlstad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1128
+msgid "Karpathos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1129
+msgid "Karup"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1130
+msgid "Kassel-Calden"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1131
+msgid "Kasumigaura Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1132
+msgid "Kasuminome Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1133
+msgid "Katowice"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1134
+msgid "Kaunas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1135
+msgid "Kavala"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1136
+msgid "Kaxul"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1137
+msgid "Kayseri"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1138
+msgid "Kazan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1139
+msgid "Kearney"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1140
+msgid "Keene"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1141
+msgid "Kefallonia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1142
+msgid "Keflavik"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1143
+msgid "Kemi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1144
+msgid "Kenai"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1145
+msgid "Kenosha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1146
+msgid "Kentucky"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1147
+msgid "Keokuk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1148
+msgid "Kerkira"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1149
+msgid "Kerman"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1150
+msgid "Ketchikan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1151
+msgid "Key West"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1152
+msgid "Key West NAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1153
+msgid "Khabarovsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1154
+msgid "Khamis Mushait"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1155
+msgid "Kharkiv"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1156
+msgid "Kiel-Holtenau"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1157
+msgid "Kikai Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1158
+msgid "Killeen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1159
+msgid "Killeen-Ft Hood"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1160
+msgid "Killeen-Gray AAF"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1161
+msgid "King Khaled International Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1162
+msgid "King Salmon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1163
+msgid "Kingman"
+msgstr "Cyningesmann"
+
+#: gde2weather/Locations.xml.in.h:1164
+msgid "Kingston"
+msgstr "Cyningstún"
+
+#: gde2weather/Locations.xml.in.h:1165
+msgid "Kingsville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1166
+msgid "Kinloss"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1167
+msgid "Kinston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1168
+msgid "Kirkenes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1169
+msgid "Kirksville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1170
+msgid "Kirkwall"
+msgstr "Ciricweall"
+
+#: gde2weather/Locations.xml.in.h:1171
+msgid "Kiruna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1172
+msgid "Kisarazu Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1173
+msgid "Kishineu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1174
+msgid "Kisinev"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1175
+msgid "Kitakyushu Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1176
+msgid "Kitchener"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1177
+msgid "Klagenfurt"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1178
+msgid "Klamath Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1179
+msgid "Klawock"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1180
+msgid "Kleine Brogel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1181
+msgid "Kliningrad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1182
+msgid "Knoxville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1183
+msgid "Knoxville-Downtown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1184
+msgid "Kobenhavn/Kastrup"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1185
+msgid "Kobenhavn/Roskilde"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1186
+msgid "Kochi Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1187
+msgid "Kodiak"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1188
+msgid "Kogalniceanu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1189
+msgid "Kogalym"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1190
+msgid "Koksijde"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1191
+msgid "Kolding/Vandrup"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1192
+msgid "Koln/Bonn"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1193
+msgid "Komatsu Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1194
+msgid "Komatsujima Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1195
+msgid "Konya"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1196
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1197
+msgid "Korea, Republic of"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1198
+msgid "Kos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1199
+msgid "Kosice"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1200
+msgid "Koszalin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1201
+msgid "Kota Bharu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1202
+msgid "Kota Kinabalu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1203
+msgid "Kotzebue"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1204
+msgid "Kozani"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1205
+msgid "Krakow"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1206
+msgid "Krasnodar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1207
+msgid "Krasnoyarsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1208
+msgid "Kristiansand/Kjevik"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1209
+msgid "Kristiansund/Kvernberget"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1210
+msgid "Kruunupyy"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1211
+msgid "Kryvyi Rih"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1212
+msgid "Kuala Terengganu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1213
+msgid "Kuantan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1214
+msgid "Kuching"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1215
+msgid "Kudat"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1216
+msgid "Kumamoto Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1217
+msgid "Kunming"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1218
+msgid "Kuopio"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1219
+msgid "Kuressaare"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1220
+msgid "Kushiro Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1221
+msgid "Kuwait"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1222
+msgid "Kyiv/Boryspil'"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1223
+msgid "Kyiv/Zhuliany"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1224
+msgid "L'viv"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1225
+msgid "La Ceiba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1226
+msgid "La Coruna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1227
+msgid "La Crosse"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1228
+msgid "La Esperanza"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1229
+msgid "La Grande"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1230
+msgid "La Junta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1231
+msgid "La Mesa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1232
+msgid "La Paz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1233
+msgid "La Paz/Alto"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1234
+msgid "La Romana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1235
+msgid "La Verne"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1236
+msgid "Labuan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1237
+msgid "Laconia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1238
+msgid "Lafayette"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1239
+msgid "Lahaina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1240
+msgid "Lahore"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1241
+msgid "Lajes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1242
+msgid "Lake Charles"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1243
+msgid "Lake Hood"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1244
+msgid "Lake Tahoe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1245
+msgid "Lakehurst"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1246
+msgid "Lakeland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1247
+msgid "Lakeview"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1248
+msgid "Lamar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1249
+msgid "Lamezia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1250
+msgid "Lamoni"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1251
+msgid "Lampedusa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1252
+msgid "Lanai"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1253
+msgid "Lancaster"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1254
+msgid "Lander"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1255
+msgid "Langebaanweg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1256
+msgid "Langkawi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1257
+msgid "Langley AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1258
+msgid "Lannion"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1259
+msgid "Lansing"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1260
+msgid "Lanzhou"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1261
+msgid "Laramie"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1262
+msgid "Laredo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1263
+msgid "Larnaka"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1264
+msgid "Las Americas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1265
+msgid "Las Tunas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1266
+msgid "Las Vegas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1267
+msgid "Latina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1268
+msgid "Latrobe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1269
+msgid "Latvia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1270
+msgid "Laughlin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1271
+msgid "Laurel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1272
+msgid "Lawrence"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1273
+msgid "Lawton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1274
+msgid "Le Havre-Octeville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1275
+msgid "Le Mans"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1276
+msgid "Le Marine"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1277
+msgid "Le Touquet"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1278
+msgid "Leadville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1279
+msgid "Learmouth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1280
+msgid "Lebanon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1281
+msgid "Lecce"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1282
+msgid "Leeds/Bradford"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1283
+msgid "Leeming"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1284
+msgid "Leesburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1285
+msgid "Leeuwarden"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1286
+msgid "Leknes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1287
+msgid "Lemmon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1288
+msgid "Lemoore"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1289
+msgid "Leticia/Vasquez Cobo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1290
+msgid "Leuchars"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1291
+msgid "Lewisburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1292
+msgid "Lewiston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1293
+msgid "Lewistown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1294
+msgid "Lexington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1295
+msgid "Liberal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1296
+msgid "Liberia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1297
+msgid "Libya"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1298
+msgid "Lichtenburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1299
+msgid "Lidgerwood"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1300
+msgid "Liege"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1301
+msgid "Lihue"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1302
+msgid "Lille-Lesquin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1303
+msgid "Lima-Callao"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1304
+msgid "Limnos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1305
+msgid "Limoges"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1306
+msgid "Limon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1307
+msgid "Lincoln"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1308
+msgid "Linton-on-Ouse"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1309
+msgid "Linz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1310
+msgid "Lisboa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1311
+msgid "Lista"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1312
+msgid "Litchfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1313
+msgid "Lithuania"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1314
+msgid "Little Rock"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1315
+msgid "Little Rock AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1316
+msgid "Livermore"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1317
+msgid "Liverpool"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1318
+msgid "Livingston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1319
+msgid "Ljubljana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1320
+msgid "Logan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1321
+msgid "Lolland Falster"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1322
+msgid "Lompoc"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1323
+msgid "London"
+msgstr "Lundon"
+
+#: gde2weather/Locations.xml.in.h:1324
+msgid "London/City"
+msgstr "Lundon/Burg"
+
+#: gde2weather/Locations.xml.in.h:1325
+msgid "London/Gatwick"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1326
+msgid "London/Heathrow"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1327
+msgid "London/Stansted"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1328
+msgid "Londonderry"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1329
+msgid "Londrina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1330
+msgid "Lone Rock"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1331
+msgid "Long Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1332
+msgid "Longview"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1333
+msgid "Lorient-Lann-Bihoue"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1334
+msgid "Los Alamos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1335
+msgid "Los Angeles"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1336
+msgid "Los Mochis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1337
+msgid "Lossiemouth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1338
+msgid "Louisville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1339
+msgid "Louisville-Standiford Field"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1340
+msgid "Lousiana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1341
+msgid "Lovelock"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1342
+msgid "Lubbock"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1343
+msgid "Lubeck-Blankensee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1344
+msgid "Lufkin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1345
+msgid "Lugano"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1346
+msgid "Lulea"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1347
+msgid "Luqa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1348
+msgid "Luton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1349
+msgid "Luxembourg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1350
+msgid "Luxeuil"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1351
+msgid "Luxor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1352
+msgid "Lynchburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1353
+msgid "Lyneham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1354
+msgid "Lyon-Bron"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1355
+msgid "Lyon-Saint-Exupéry"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1356
+msgid "Maastricht"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1357
+msgid "Macae"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1358
+msgid "Macapa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1359
+msgid "Maceio"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1360
+msgid "Macon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1361
+msgid "Madinah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1362
+msgid "Madison"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1363
+msgid "Madras/Minambakkam"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1364
+msgid "Madrid (Barajas)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1365
+msgid "Madrid (Cuatro Vientos)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1366
+msgid "Magadan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1367
+msgid "Magdalena"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1368
+msgid "Maine"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1369
+msgid "Makhachkala"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1370
+msgid "Makkah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1371
+msgid "Makung"
+msgstr ""
+
+#. TRANSLATOR: Malacca is known locally as "Melaka"
+#: gde2weather/Locations.xml.in.h:1373
+msgid "Malacca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1374
+msgid "Malad City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1375
+msgid "Malaga"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1376
+msgid "Malatya"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1377
+msgid "Malaysia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1378
+msgid "Maldonado/Punta Est"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1379
+msgid "Malmo/Sturup"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1380
+msgid "Malta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1381
+msgid "Mammoth Lakes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1382
+msgid "Managua"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1383
+msgid "Manassas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1384
+msgid "Manaus"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1385
+msgid "Manchester"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1386
+msgid "Mangilsan Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1387
+msgid "Manhattan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1388
+msgid "Manila"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1389
+msgid "Manisa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1390
+msgid "Manistee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1391
+msgid "Manitoba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1392
+msgid "Manitowoc"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1393
+msgid "Mankato"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1394
+msgid "Mansfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1395
+msgid "Manston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1396
+msgid "Manta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1397
+msgid "Manzanillo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1398
+msgid "Mar Del Plata"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1399
+msgid "Maraba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1400
+msgid "Maracaibo-La Chinita"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1401
+msgid "Maracay-B.A.Sucre"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1402
+msgid "Marathon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1403
+msgid "Margarita"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1404
+msgid "Marham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1405
+msgid "Marianna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1406
+msgid "Marib"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1407
+msgid "Maribor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1408
+msgid "Mariehamn"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1409
+msgid "Marietta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1410
+msgid "Marino di Ravenna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1411
+msgid "Marion"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1412
+msgid "Marion-Wytheville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1413
+msgid "Marseille-Provence"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1414
+msgid "Marseilles"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1415
+msgid "Marshall"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1416
+msgid "Marshalltown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1417
+msgid "Marshfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1418
+msgid "Marte"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1419
+msgid "Marthas Vineyard"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1420
+msgid "Martinsburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1421
+msgid "Martinsville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1422
+msgid "Maryland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1423
+msgid "Marysville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1424
+msgid "Marysville-Beale AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1425
+msgid "Masbate"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1426
+msgid "Mashhad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1427
+msgid "Masirah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1428
+msgid "Mason City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1429
+msgid "Massachusetts"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1430
+msgid "Massena"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1431
+msgid "Matamoros"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1432
+msgid "Matsumoto Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1433
+msgid "Matsushima Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1434
+msgid "Matsuyama Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1435
+msgid "Mattoon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1436
+msgid "Mayaguez"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1437
+msgid "Mayport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1438
+msgid "Mazatlan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1439
+msgid "Mazu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1440
+msgid "Mc Gregor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1441
+msgid "McAlester"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1442
+msgid "McAllen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1443
+msgid "McCall"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1444
+msgid "McCarthy"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1445
+msgid "McClellan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1446
+msgid "McComb"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1447
+msgid "McCook"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1448
+msgid "McGrath"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1449
+msgid "Meacham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1450
+msgid "Medford"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1451
+msgid "Medicine Lodge"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1452
+msgid "Mehamn"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1453
+msgid "Mekoryuk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1454
+msgid "Melbourne"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1455
+msgid "Melfa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1456
+msgid "Melilla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1457
+msgid "Memambetsu Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1458
+msgid "Memphis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1459
+msgid "Memphis-NAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1460
+msgid "Mendoza"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1461
+msgid "Mene Grande"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1462
+msgid "Menominee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1463
+msgid "Menorca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1464
+msgid "Merced"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1465
+msgid "Merida"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1466
+msgid "Meridian"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1467
+msgid "Meridian-Lauderdale"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1468
+msgid "Merril Field"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1469
+msgid "Mersa Matruh"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1470
+msgid "Mesa-Falcon Field"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1471
+msgid "Metabaru Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1472
+msgid "Metz-Frescaty"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1473
+msgid "Mexicali"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1474
+msgid "Mexico"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1475
+msgid "Miami"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1476
+msgid "Miami-Kendall"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1477
+msgid "Miami-Opa Locka"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1478
+msgid "Michigan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1479
+msgid "Middle East"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1480
+msgid "Middle Wallop"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1481
+msgid "Middleton Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1482
+msgid "Middletown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1483
+msgid "Midland"
+msgstr "Middland"
+
+#: gde2weather/Locations.xml.in.h:1484
+msgid "Midlands"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1485
+msgid "Miho Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1486
+msgid "Mikonos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1487
+msgid "Milano/Linate"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1488
+msgid "Milano/Malpensa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1489
+msgid "Mildenhall"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1490
+msgid "Miles City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1491
+msgid "Milford"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1492
+msgid "Millinocket"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1493
+msgid "Millville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1494
+msgid "Milton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1495
+msgid "Milwaukee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1496
+msgid "Milwaukee-Timmerman"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1497
+msgid "Minamitorishima"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1498
+msgid "Minatitlan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1499
+msgid "Minchumina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1500
+msgid "Mineral Wells"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1501
+msgid "Mineralnye Vody"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1502
+msgid "Minneapolis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1503
+msgid "Minneapolis [2]"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1504
+msgid "Minneapolis [3]"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1505
+msgid "Minnesota"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1506
+msgid "Minocqua"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1507
+msgid "Minot"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1508
+msgid "Minot AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1509
+msgid "Miri"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1510
+msgid "Misawa Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1511
+msgid "Mississippi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1512
+msgid "Missoula"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1513
+msgid "Missouri"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1514
+msgid "Mitchell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1515
+msgid "Mitilini"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1516
+msgid "Miyakejima Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1517
+msgid "Miyazaki Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1518
+msgid "Mo I Rana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1519
+msgid "Moa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1520
+msgid "Mobile Downtown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1521
+msgid "Mobile Regional Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1522
+msgid "Mobridge"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1523
+msgid "Modesto"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1524
+msgid "Mojave"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1525
+msgid "Molde"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1526
+msgid "Moldova"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1527
+msgid "Moline-Quad Cities"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1528
+msgid "Molokai"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1529
+msgid "Mombetsu Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1530
+msgid "Monchengladbach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1531
+msgid "Monclova"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1532
+msgid "Moncton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1533
+msgid "Mongolia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1534
+msgid "Monida"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1535
+msgid "Monroe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1536
+msgid "Mont-de-Marsan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1537
+msgid "Montague"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1538
+msgid "Montana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1539
+msgid "Monte Argentario"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1540
+msgid "Monte Bisbino"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1541
+msgid "Monte Calamita"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1542
+msgid "Monte Cimone"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1543
+msgid "Monte Malanotte"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1544
+msgid "Monte Scuro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1545
+msgid "Monte Terminillo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1546
+msgid "Montego Bay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1547
+msgid "Monterey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1548
+msgid "Monterrey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1549
+msgid "Montevideo/Carrasco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1550
+msgid "Montgomery"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1551
+msgid "Montgomery-Maxwell AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1552
+msgid "Monticello"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1553
+msgid "Montpelier"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1554
+msgid "Montpellier-Méditerranée"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1555
+msgid "Montreal Dorval"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1556
+msgid "Montreal Mirabel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1557
+msgid "Montreal Saint-Hubert"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1558
+msgid "Montrose"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1559
+msgid "Montrose (2)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1560
+msgid "Morelia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1561
+msgid "Morganton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1562
+msgid "Morgantown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1563
+msgid "Moriarty"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1564
+msgid "Morocco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1565
+msgid "Morristown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1566
+msgid "Moscow Domodedovo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1567
+msgid "Moscow Sheremetyevo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1568
+msgid "Moses Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1569
+msgid "Mosinee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1570
+msgid "Mosjoen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1571
+msgid "Moultrie"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1572
+msgid "Mount Clemens"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1573
+msgid "Mount Holly"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1574
+msgid "Mount Shasta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1575
+msgid "Mount Vernon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1576
+msgid "Mount Wilson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1577
+msgid "Mountain Home"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1578
+msgid "Mountain View"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1579
+msgid "Mt Washington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1580
+msgid "Mugla/Dalaman"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1581
+msgid "Muir"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1582
+msgid "Mullan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1583
+msgid "Mullen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1584
+msgid "Munchen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1585
+msgid "Muncie"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1586
+msgid "Munster/Osnabruck"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1587
+msgid "Murcia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1588
+msgid "Murmansk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1589
+msgid "Mus"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1590
+msgid "Muscatine"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1591
+msgid "Muscle Shoals"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1592
+msgid "Muskegon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1593
+msgid "Mykolaiv"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1594
+msgid "Myrtle Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1595
+msgid "N Las Vegas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1596
+msgid "N Myrtle Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1597
+msgid "Nabesna/Devil Mt."
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1598
+msgid "Nacogdoches"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1599
+msgid "Nagasaki Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1600
+msgid "Nagoya Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1601
+msgid "Nagpur Sonegaon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1602
+msgid "Naha Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1603
+msgid "Najran"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1604
+msgid "Nakashibetsu Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1605
+msgid "Nalchik"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1606
+msgid "Namsos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1607
+msgid "Nancy-Essey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1608
+msgid "Nancy-Ochey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1609
+msgid "Nankishirahama Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1610
+msgid "Nanning"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1611
+msgid "Nantes Atlantique"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1612
+msgid "Nantucket"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1613
+msgid "Napa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1614
+msgid "Naples"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1615
+msgid "Napoli"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1616
+msgid "Narvik"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1617
+msgid "Nasa Shuttle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1618
+msgid "Nashua"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1619
+msgid "Nashville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1620
+msgid "Nassau"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1621
+msgid "Natal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1622
+msgid "Natchez"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1623
+msgid "Nawabshah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1624
+msgid "Nebraska"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1625
+msgid "Needles"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1626
+msgid "Nenana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1627
+msgid "Netherlands"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1628
+msgid "Neuquen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1629
+msgid "Nevada"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1630
+msgid "New Bedford"
+msgstr "Níwe Beddford"
+
+#: gde2weather/Locations.xml.in.h:1631
+msgid "New Bern"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1632
+msgid "New Braunfels"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1633
+msgid "New Brunswick"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1634
+msgid "New Delhi/Palam"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1635
+msgid "New Hampshire"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1636
+msgid "New Haven"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1637
+msgid "New Iberia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1638
+msgid "New Jersey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1639
+msgid "New Mexico"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1640
+msgid "New Orleans"
+msgstr ""
+
+#. TRANSLATOR: NAS is short for "Naval Air Station"
+#: gde2weather/Locations.xml.in.h:1642
+msgid "New Orleans NAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1643
+msgid "New Orleans-Lakefront"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1644
+msgid "New Port Richey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1645
+msgid "New River"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1646
+msgid "New Tokyo International Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1647
+msgid "New York"
+msgstr "Níwe Eoforwíc"
+
+#: gde2weather/Locations.xml.in.h:1648
+msgid "New York-JFK Arpt"
+msgstr "Níwe Eoforwíc-JFK Lftpt"
+
+#: gde2weather/Locations.xml.in.h:1649
+msgid "New York-La Guardia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1650
+msgid "New Zealand"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1651
+msgid "Newark"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1652
+msgid "Newburgh"
+msgstr "Níwe Burg"
+
+#: gde2weather/Locations.xml.in.h:1653
+msgid "Newcastle"
+msgstr "Níwe Castel"
+
+#: gde2weather/Locations.xml.in.h:1654
+msgid "Newfoundland"
+msgstr "Níwe fundenland"
+
+#: gde2weather/Locations.xml.in.h:1655
+msgid "Newport"
+msgstr "Níwe port"
+
+#: gde2weather/Locations.xml.in.h:1656
+msgid "Newport News"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1657
+msgid "Newton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1658
+msgid "Niagara Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1659
+msgid "Nicaragua"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1660
+msgid "Nice-Côte d'Azur"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1661
+msgid "Niigata Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1662
+msgid "Nimes-Garons"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1663
+msgid "Nipawin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1664
+msgid "Nis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1665
+msgid "Nizhny Novgorod"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1666
+msgid "Nogales"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1667
+msgid "Nome"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1668
+msgid "Norfolk"
+msgstr "Norfolc"
+
+#: gde2weather/Locations.xml.in.h:1669
+msgid "Norfolk Island"
+msgstr "Norfolc Íeg"
+
+#: gde2weather/Locations.xml.in.h:1670
+msgid "Norfolk NAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1671
+msgid "Norrkoping"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1672
+msgid "North Adams"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1673
+msgid "North America"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1674
+msgid "North Bay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1675
+msgid "North Bend"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1676
+msgid "North Carolina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1677
+msgid "North Conway"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1678
+msgid "North Dakota"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1679
+msgid "North East"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1680
+msgid "North Kingston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1681
+msgid "North Platte"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1682
+msgid "North West"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1683
+msgid "Northeast Philadelphia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1684
+msgid "Northern Ireland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1685
+msgid "Northolt"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1686
+msgid "Northway"
+msgstr "Norþweg"
+
+#: gde2weather/Locations.xml.in.h:1687
+msgid "Northwest Territories"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1688
+msgid "Norway"
+msgstr "Norweg"
+
+#: gde2weather/Locations.xml.in.h:1689
+msgid "Norwich"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1690
+msgid "Norwood"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1691
+msgid "Notodden"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1692
+msgid "Nova Scotia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1693
+msgid "Novara/Cameri"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1694
+msgid "Novosibirsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1695
+msgid "Nueva Gerona"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1696
+msgid "Nueva Ocotepeque"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1697
+msgid "Nuevo Laredo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1698
+msgid "Nunavut"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1699
+msgid "Nurnberg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1700
+msgid "Nyutabaru Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1701
+msgid "O'Neill"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1702
+msgid "Oahu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1703
+msgid "Oak Harbor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1704
+msgid "Oakland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1705
+msgid "Oaxaca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1706
+msgid "Oberpfaffenhofen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1707
+msgid "Obihiro Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1708
+msgid "Ocala"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1709
+msgid "Oceanside"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1710
+msgid "Odense"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1711
+msgid "Odesa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1712
+msgid "Odiham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1713
+msgid "Oelwen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1714
+msgid "Ogden"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1715
+msgid "Ogden-Hill AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1716
+msgid "Ogdensburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1717
+msgid "Ohio"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1718
+msgid "Ohrid"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1719
+msgid "Oita Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1720
+msgid "Ojika Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1721
+msgid "Okayama Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1722
+msgid "Oki Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1723
+msgid "Okinoerabu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1724
+msgid "Oklahoma"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1725
+msgid "Oklahoma City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1726
+msgid "Oklahoma City-Bethany"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1727
+msgid "Oklahoma City-Midwest City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1728
+msgid "Okushiri Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1729
+msgid "Olathe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1730
+msgid "Olathe/Ind."
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1731
+msgid "Olbia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1732
+msgid "Olympia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1733
+msgid "Omaha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1734
+msgid "Omaha-Bellevue"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1735
+msgid "Omak"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1736
+msgid "Oman"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1737
+msgid "Ominato Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1738
+msgid "Omsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1739
+msgid "Ontario"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1740
+msgid "Oostende"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1741
+msgid "Oran"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1742
+msgid "Oran/Es Senia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1743
+msgid "Orange"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1744
+msgid "Orange City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1745
+msgid "Ord-Sharp"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1746
+msgid "Oregon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1747
+msgid "Orenburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1748
+msgid "Orland"
+msgstr "Orland"
+
+#: gde2weather/Locations.xml.in.h:1749
+msgid "Orlando"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1750
+msgid "Orlando (Orlando International)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1751
+msgid "Ornskoldsvik"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1752
+msgid "Orsta-Volda"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1753
+msgid "Oruro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1754
+msgid "Osaka International Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1755
+msgid "Osan Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1756
+msgid "Oscoda"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1757
+msgid "Oseberg A"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1758
+msgid "Oshima Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1759
+msgid "Oshkosh"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1760
+msgid "Oslo/Fornebu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1761
+msgid "Oslo/Gardermoen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1762
+msgid "Ostersund"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1763
+msgid "Ostrava"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1764
+msgid "Ottawa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1765
+msgid "Ottumwa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1766
+msgid "Oulu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1767
+msgid "Owensboro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1768
+msgid "Owyhee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1769
+msgid "Oxford"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1770
+msgid "Oxnard"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1771
+msgid "Ozark"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1772
+msgid "Ozuki Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1773
+msgid "Pa Kuei/Bakuai"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1774
+msgid "Paderborn-Haxterberg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1775
+msgid "Padova"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1776
+msgid "Paducah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1777
+msgid "Paekado"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1778
+msgid "Paengnyongdo Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1779
+msgid "Paganella"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1780
+msgid "Page"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1781
+msgid "Pakistan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1782
+msgid "Palacios"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1783
+msgid "Palanga"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1784
+msgid "Palermo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1785
+msgid "Palm Springs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1786
+msgid "Palma de Mallorca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1787
+msgid "Palmdale"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1788
+msgid "Palmer"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1789
+msgid "Palo Alto"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1790
+msgid "Pamplona"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1791
+msgid "Panama"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1792
+msgid "Panama City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1793
+msgid "Panevzys"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1794
+msgid "Pantelleria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1795
+msgid "Paphos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1796
+msgid "Paraguay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1797
+msgid "Paris"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1798
+msgid "Paris/Charles De Gaulle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1799
+msgid "Paris/Le Bourget"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1800
+msgid "Paris/Orly"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1801
+msgid "Parkersburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1802
+msgid "Parnu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1803
+msgid "Pasco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1804
+msgid "Paso De Los Libres"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1805
+msgid "Paso Robles"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1806
+msgid "Passo Resia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1807
+msgid "Passo Rolle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1808
+msgid "Passo dei Giovi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1809
+msgid "Passo della Cisa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1810
+msgid "Patna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1811
+msgid "Patterson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1812
+msgid "Patuxent River"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1813
+msgid "Pau/Pyrénées"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1814
+msgid "Paxson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1815
+msgid "Paysandu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1816
+msgid "Payson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1817
+msgid "Pellston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1818
+msgid "Pelotas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1819
+msgid "Pembrey"
+msgstr ""
+
+#. TRANSLATOR: Penang is known locally as "Pulau Pinang"
+#: gde2weather/Locations.xml.in.h:1821
+msgid "Penang"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1822
+msgid "Pendleton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1823
+msgid "Penn Yan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1824
+msgid "Pennsylvania"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1825
+msgid "Pensacola"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1826
+msgid "Pensacola NAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1827
+msgid "People's Republic of China"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1828
+msgid "Peoria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1829
+msgid "Pequot Lakes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1830
+msgid "Pereira/Gde2cana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1831
+msgid "Perm"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1832
+msgid "Perpignan-Rivesaltes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1833
+msgid "Perry-Foley"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1834
+msgid "Perth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1835
+msgid "Peru"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1836
+msgid "Perugia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1837
+msgid "Pescara"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1838
+msgid "Petawawa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1839
+msgid "Peterborough"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1840
+msgid "Petersburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1841
+msgid "Petropavlovsk-Kamchatsky"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1842
+msgid "Petrozavodsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1843
+msgid "Philadelphia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1844
+msgid "Philip"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1845
+msgid "Philippines"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1846
+msgid "Philipsburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1847
+msgid "Phillips"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1848
+msgid "Phoenix"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1849
+msgid "Phoenix-Deer Valley"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1850
+msgid "Phoenix-Goodyear"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1851
+msgid "Phoenix-Luke AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1852
+msgid "Phuket Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1853
+msgid "Piacenza"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1854
+msgid "Pian Rosa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1855
+msgid "Piedras Negras"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1856
+msgid "Pierre"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1857
+msgid "Pietersburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1858
+msgid "Pikeville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1859
+msgid "Pine Bluff"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1860
+msgid "Pingtung North"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1861
+msgid "Pingtung South"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1862
+msgid "Pirassununga"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1863
+msgid "Pisa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1864
+msgid "Pisco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1865
+msgid "Pittsburgh"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1866
+msgid "Pittsburgh-West Mifflin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1867
+msgid "Plattsburgh"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1868
+msgid "Plovdiv"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1869
+msgid "Plymouth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1870
+msgid "Pocatello"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1871
+msgid "Pocos De Caldas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1872
+msgid "Podgorica"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1873
+msgid "Podgorica Titograd"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1874
+msgid "Pohang Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1875
+msgid "Point Hope"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1876
+msgid "Point Lay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1877
+msgid "Point Mugu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1878
+msgid "Point Piedras Blanca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1879
+msgid "Poitiers"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1880
+msgid "Poland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1881
+msgid "Pompano Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1882
+msgid "Ponca City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1883
+msgid "Ponce"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1884
+msgid "Ponta Delgada"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1885
+msgid "Ponta Pora"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1886
+msgid "Pontiac"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1887
+msgid "Pope AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1888
+msgid "Poplar Bluff"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1889
+msgid "Poprad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1890
+msgid "Pori"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1891
+msgid "Port Alexander"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1892
+msgid "Port Alsworth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1893
+msgid "Port Angeles"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1894
+msgid "Port Elizabeth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1895
+msgid "Port Hardy"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1896
+msgid "Port Hedland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1897
+msgid "Port Heiden"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1898
+msgid "Port Said"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1899
+msgid "Port-Au-Prince"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1900
+msgid "Porterville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1901
+msgid "Portland"
+msgstr "Portland"
+
+#: gde2weather/Locations.xml.in.h:1902
+msgid "Porto"
+msgstr "Port"
+
+#: gde2weather/Locations.xml.in.h:1903
+msgid "Porto Alegre"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1904
+msgid "Porto Alegre Apt"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1905
+msgid "Porto Santo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1906
+msgid "Porto Velho"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1907
+msgid "Portoroz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1908
+msgid "Portsmouth"
+msgstr "Portesmúþ"
+
+#: gde2weather/Locations.xml.in.h:1909
+msgid "Portugal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1910
+msgid "Posadas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1911
+msgid "Potosi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1912
+msgid "Poughkeepsie"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1913
+msgid "Pownal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1914
+msgid "Poza Rica"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1915
+msgid "Poznan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1916
+msgid "Praha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1917
+msgid "Pratica di Mare"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1918
+msgid "Prescott"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1919
+msgid "Presidente Prudente"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1920
+msgid "Presque Isle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1921
+msgid "Prestwick"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1922
+msgid "Pretoria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1923
+msgid "Preveza"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1924
+msgid "Price-Carbon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1925
+msgid "Prince Edward Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1926
+msgid "Pristina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1927
+msgid "Providence"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1928
+msgid "Provincetown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1929
+msgid "Provo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1930
+msgid "Pskov"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1931
+msgid "Pucallpa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1932
+msgid "Pudahuel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1933
+msgid "Puebla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1934
+msgid "Pueblo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1935
+msgid "Puerto Barrios"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1936
+msgid "Puerto Cabezas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1937
+msgid "Puerto Escondido"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1938
+msgid "Puerto Lempira"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1939
+msgid "Puerto Limon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1940
+msgid "Puerto Maldonado"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1941
+msgid "Puerto Montt"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1942
+msgid "Puerto Plata"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1943
+msgid "Puerto Rico"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1944
+msgid "Puerto Suarez"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1945
+msgid "Puerto Vallarta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1946
+msgid "Pula"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1947
+msgid "Pullman"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1948
+msgid "Punta Arenas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1949
+msgid "Punta Cana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1950
+msgid "Punta Gorda"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1951
+msgid "Puntilla Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1952
+msgid "Pusan/Kimhae"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1953
+msgid "Pyongtaek Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1954
+msgid "Pyongyang"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1955
+msgid "Pécs/Pogány"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1956
+msgid "Qatar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1957
+msgid "Quantico"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1958
+msgid "Quebec"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1959
+msgid "Quebec City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1960
+msgid "Queretaro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1961
+msgid "Quillayute"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1962
+msgid "Quimper"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1963
+msgid "Quincy"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1964
+msgid "Quito/Mariscal Sucre"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1965
+msgid "Rabat"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1966
+msgid "Raduzhny"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1967
+msgid "Rafha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1968
+msgid "Raleigh-Durham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1969
+msgid "Randolph AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1970
+msgid "Rapid City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1971
+msgid "Rapid City-Ellsworth AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1972
+msgid "Ras Al Khaimah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1973
+msgid "Rawlins"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1974
+msgid "Rayong"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1975
+msgid "Reading"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1976
+msgid "Rebun Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1977
+msgid "Recife"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1978
+msgid "Red Bluff"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1979
+msgid "Red Oak"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1980
+msgid "Redding"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1981
+msgid "Redig"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1982
+msgid "Redmond"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1983
+msgid "Redwood Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1984
+msgid "Reggio Calabria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1985
+msgid "Regina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1986
+msgid "Reims-Champagne"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1987
+msgid "Rennes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1988
+msgid "Reno"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1989
+msgid "Renton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1990
+msgid "Resistencia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1991
+msgid "Reus"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1992
+msgid "Reyes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1993
+msgid "Reykjavik"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1994
+msgid "Reynosa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1995
+msgid "Rhinelander"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1996
+msgid "Rhode Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1997
+msgid "Riberalta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1998
+msgid "Richmond"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:1999
+msgid "Rickenbacker"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2000
+msgid "Rieti"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2001
+msgid "Rifle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2002
+msgid "Riga"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2003
+msgid "Rijeka"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2004
+msgid "Rimini"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2005
+msgid "Rio / Jacarepagua"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2006
+msgid "Rio De Janeiro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2007
+msgid "Rio Gallegos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2008
+msgid "Rio Grande"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2009
+msgid "Rioja"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2010
+msgid "Rionegro/J.M.Cordova"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2011
+msgid "Rishiri Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2012
+msgid "Rivas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2013
+msgid "Rivera"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2014
+msgid "Riverside"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2015
+msgid "Riverside/March AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2016
+msgid "Riverton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2017
+msgid "Rivne"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2018
+msgid "Rivolto"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2019
+msgid "Riyadh"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2020
+msgid "Roanoke"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2021
+msgid "Roatan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2022
+msgid "Robore"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2023
+msgid "Rochester"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2024
+msgid "Rock Springs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2025
+msgid "Rockford"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2026
+msgid "Rockland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2027
+msgid "Rockport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2028
+msgid "Rocky Mount"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2029
+msgid "Rodos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2030
+msgid "Rogers"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2031
+msgid "Roma/Ciampino"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2032
+msgid "Roma/Fiumicino"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2033
+msgid "Roma/Urbe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2034
+msgid "Romania"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2035
+msgid "Rome-Russell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2036
+msgid "Ronchi dei Legionari"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2037
+msgid "Ronneby"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2038
+msgid "Roosevelt"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2039
+msgid "Roros"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2040
+msgid "Rorvik/Ryum"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2041
+msgid "Rosario"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2042
+msgid "Roseburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2043
+msgid "Roseglen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2044
+msgid "Rost"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2045
+msgid "Rostov-Na-Donu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2046
+msgid "Roswell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2047
+msgid "Rotterdam"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2048
+msgid "Rouen-Valle de Seine"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2049
+msgid "Rovaniemi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2050
+msgid "Ruidoso-Sierra Blanca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2051
+msgid "Rurrenabaque"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2052
+msgid "Russell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2053
+msgid "Russia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2054
+msgid "Rutland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2055
+msgid "Rygge"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2056
+msgid "Rzeszow"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2057
+msgid "Saarbrucken"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2058
+msgid "Sabine Pass"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2059
+msgid "Sacramento"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2060
+msgid "Sacramento-Woodland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2061
+msgid "Safford-Municipal Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2062
+msgid "Saginaw"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2063
+msgid "Saint Anthony"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2064
+msgid "Saint John"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2065
+msgid "Saint Mary's"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2066
+msgid "Saint Paul"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2067
+msgid "Saint-Brieuc-Armor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2068
+msgid "Saint-Dizier-Robinson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2069
+msgid "Saint-Etienne-Boutheon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2070
+msgid "Saint-Hubert"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2071
+msgid "Saint-Nazaire-Montoir"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2072
+msgid "Saiq"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2073
+msgid "Salalah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2074
+msgid "Salem"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2075
+msgid "Salida"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2076
+msgid "Salida-Harriet"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2077
+msgid "Salina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2078
+msgid "Salinas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2079
+msgid "Salisbury"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2080
+msgid "Salmon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2081
+msgid "Salmon (2)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2082
+msgid "Salt Lake City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2083
+msgid "Salt Point"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2084
+msgid "Salta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2085
+msgid "Saltillo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2086
+msgid "Salto"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2087
+msgid "Salvador"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2088
+msgid "Salzburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2089
+msgid "Samara"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2090
+msgid "Samos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2091
+msgid "Samsun"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2092
+msgid "San Andres Isla/Sesquicentenario"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2093
+msgid "San Angelo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2094
+msgid "San Antonio"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2095
+msgid "San Antonio Del Tachira"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2096
+msgid "San Antonio-Kelly AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2097
+msgid "San Antonio-Stinson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2098
+msgid "San Carlos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2099
+msgid "San Diego"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2100
+msgid "San Diego-Brown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2101
+msgid "San Diego-Miramar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2102
+msgid "San Diego-Montgomery"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2103
+msgid "San Diego-North Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2104
+msgid "San Diego-Santee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2105
+msgid "San Fernando De Apure"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2106
+msgid "San Francisco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2107
+msgid "San Ignacio De Velasco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2108
+msgid "San Joaquin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2109
+msgid "San Jose"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2110
+msgid "San Jose De Chiquitos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2111
+msgid "San Jose del Cabo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2112
+msgid "San Jose-Santa Clara"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2113
+msgid "San Juan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2114
+msgid "San Luis Obispo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2115
+msgid "San Luis Potosi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2116
+msgid "San Miguel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2117
+msgid "San Nicholas Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2118
+msgid "San Salvador"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2119
+msgid "San Sebastian"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2120
+msgid "Sana'A"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2121
+msgid "Sand Point"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2122
+msgid "Sandakan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2123
+msgid "Sandane"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2124
+msgid "Sandberg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2125
+msgid "Sanderson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2126
+msgid "Sandnessjoen/Stokka"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2127
+msgid "Sanford"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2128
+msgid "Sangju"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2129
+msgid "Sankt-Peterburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2130
+msgid "Sanliurfa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2131
+msgid "Santa Ana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2132
+msgid "Santa Barbara"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2133
+msgid "Santa Cruz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2134
+msgid "Santa Fe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2135
+msgid "Santa Maria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2136
+msgid "Santa Marta/Simon Bolivar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2137
+msgid "Santa Monica"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2138
+msgid "Santa Rosa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2139
+msgid "Santa Rosa de Copan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2140
+msgid "Santander"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2141
+msgid "Santarem"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2142
+msgid "Santiago"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2143
+msgid "Santiago Del Estero"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2144
+msgid "Santiago de Cuba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2145
+msgid "Santorini"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2146
+msgid "Santos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2147
+msgid "Sao Jose Dos Campo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2148
+msgid "Sao Luiz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2149
+msgid "Sao Paulo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2150
+msgid "Sapporo Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2151
+msgid "Sarajevo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2152
+msgid "Saranac Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2153
+msgid "Sarasota"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2154
+msgid "Saratov"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2155
+msgid "Sarzana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2156
+msgid "Saskatchewan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2157
+msgid "Saskatoon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2158
+msgid "Sauce Viejo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2159
+msgid "Saudi Arabia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2160
+msgid "Sault Ste Marie"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2161
+msgid "Savannah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2162
+msgid "Savannah-Hunter AAF"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2163
+msgid "Sawyer AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2164
+msgid "Sayun"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2165
+msgid "Scampton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2166
+msgid "Scatsta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2167
+msgid "Schaffen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2168
+msgid "Schenectady"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2169
+msgid "Scilly St Mary's"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2170
+msgid "Scotland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2171
+msgid "Scottsbluff"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2172
+msgid "Scottsdale"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2173
+msgid "Scranton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2174
+msgid "Seattle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2175
+msgid "Seattle-Boeing"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2176
+msgid "Sedalia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2177
+msgid "Seeb"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2178
+msgid "Selanik"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2179
+msgid "Sendai Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2180
+msgid "Seoul E Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2181
+msgid "Seoul/Kimp'O International Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2182
+msgid "Seoul/Yongdungp'O Rokaf Wc"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2183
+msgid "Sepang"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2184
+msgid "Sept-Iles"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2185
+msgid "Seul Choix Pt"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2186
+msgid "Sevilla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2187
+msgid "Seward"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2188
+msgid "Sexton Summit"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2189
+msgid "Shanghai"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2190
+msgid "Shannon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2191
+msgid "Shannon Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2192
+msgid "Sharjah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2193
+msgid "Sharm El Sheikhintl"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2194
+msgid "Sharurah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2195
+msgid "Shawbury"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2196
+msgid "Shearwater"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2197
+msgid "Sheboygan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2198
+msgid "Sheldon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2199
+msgid "Shelter Cove"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2200
+msgid "Shelton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2201
+msgid "Shenandoah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2202
+msgid "Sheridan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2203
+msgid "Sherman-Denison"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2204
+msgid "Shimofusa Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2205
+msgid "Shingle Point"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2206
+msgid "Shiraz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2207
+msgid "Shishmaref"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2208
+msgid "Shizuhama Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2209
+msgid "Shoreham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2210
+msgid "Show Low"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2211
+msgid "Shreveport Downtown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2212
+msgid "Shreveport Regional"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2213
+msgid "Siauliai"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2214
+msgid "Sibu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2215
+msgid "Sidney"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2216
+msgid "Sigonella"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2217
+msgid "Siloam Springs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2218
+msgid "Silver City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2219
+msgid "Simferopol'"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2220
+msgid "Sindal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2221
+msgid "Singapore"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2222
+msgid "Sioux City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2223
+msgid "Sioux Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2224
+msgid "Sitiawan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2225
+msgid "Sitka"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2226
+msgid "Sivas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2227
+msgid "Sivrihisar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2228
+msgid "Skagway"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2229
+msgid "Skelleftea"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2230
+msgid "Skiathos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2231
+msgid "Skien/Geiteryggen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2232
+msgid "Skiros"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2233
+msgid "Skive"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2234
+msgid "Skopje"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2235
+msgid "Skovde"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2236
+msgid "Skwentna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2237
+msgid "Slana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2238
+msgid "Slovakia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2239
+msgid "Slovenia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2240
+msgid "Slupsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2241
+msgid "Smithers"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2242
+msgid "Smyrna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2243
+msgid "Snowshoe Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2244
+msgid "Sochi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2245
+msgid "Socorro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2246
+msgid "Socotra"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2247
+msgid "Soda Springs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2248
+msgid "Sofia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2249
+msgid "Sogndal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2250
+msgid "Soldotna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2251
+msgid "Somerset"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2252
+msgid "Sonderborg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2253
+msgid "Songmu Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2254
+msgid "Sorkjosen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2255
+msgid "South Africa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2256
+msgid "South Bend"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2257
+msgid "South Carolina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2258
+msgid "South Dakota"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2259
+msgid "South Marsh Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2260
+msgid "South Timbalier"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2261
+msgid "South and South West"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2262
+msgid "Southampton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2263
+msgid "Southend"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2264
+msgid "Spa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2265
+msgid "Spain"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2266
+msgid "Sparrevohn"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2267
+msgid "Spencer"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2268
+msgid "Spickard"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2269
+msgid "Split"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2270
+msgid "Spokane"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2271
+msgid "Spokane-Parkwater"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2272
+msgid "Springbok"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2273
+msgid "Springfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2274
+msgid "St Athan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2275
+msgid "St Cloud"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2276
+msgid "St Johnsbury"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2277
+msgid "St Joseph"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2278
+msgid "St Louis"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2279
+msgid "St Louis-Spirit"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2280
+msgid "St Mawgan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2281
+msgid "St Paul"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2282
+msgid "St Petersburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2283
+msgid "St Petersburg / Clearwater"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2284
+msgid "St Simon's Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2285
+msgid "St. George"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2286
+msgid "St. John's"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2287
+msgid "Stampede Pass"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2288
+msgid "State College"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2289
+msgid "Stauning"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2290
+msgid "Staunton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2291
+msgid "Stavanger/Sola"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2292
+msgid "Staverton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2293
+msgid "Stavropol"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2294
+msgid "Steamboat Springs"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2295
+msgid "Stephenville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2296
+msgid "Stillwater"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2297
+msgid "Stockholm (Arlanda)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2298
+msgid "Stockholm (Bromma)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2299
+msgid "Stockton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2300
+msgid "Stokmarknes/Skagen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2301
+msgid "Stord/Sorstokken"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2302
+msgid "Storm Lake"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2303
+msgid "Stornoway"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2304
+msgid "Strasbourg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2305
+msgid "Strevell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2306
+msgid "Stumpy Point"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2307
+msgid "Sturgeon Bay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2308
+msgid "Stuttgart"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2309
+msgid "Subic Bay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2310
+msgid "Sucre"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2311
+msgid "Sudbury"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2312
+msgid "Sumburgh"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2313
+msgid "Summerside"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2314
+msgid "Sumter"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2315
+msgid "Sumter (2)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2316
+msgid "Sundsvall-Harnosand"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2317
+msgid "Sungshan/Taipei"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2318
+msgid "Superior"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2319
+msgid "Suriname"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2320
+msgid "Sutton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2321
+msgid "Suwon Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2322
+msgid "Svalbard"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2323
+msgid "Svolvaer/Helle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2324
+msgid "Sweden"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2325
+msgid "Swift Current"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2326
+msgid "Switzerland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2327
+msgid "Sydney"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2328
+msgid "Syktyvkar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2329
+msgid "Syracuse"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2330
+msgid "Syros"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2331
+msgid "Szczecin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2332
+msgid "Szeged"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2333
+msgid "Szentkirályszabadja"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2334
+msgid "Szolnok"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2335
+msgid "Szombathely"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2336
+msgid "Tabatinga"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2337
+msgid "Tabriz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2338
+msgid "Tabuk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2339
+msgid "Tachikawa Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2340
+msgid "Tacloban"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2341
+msgid "Tacna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2342
+msgid "Tacoma"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2343
+msgid "Tacoma-Lakewood"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2344
+msgid "Tacuarembo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2345
+msgid "Taegu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2346
+msgid "Taegu Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2347
+msgid "Taejon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2348
+msgid "Tahoe Valley"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2349
+msgid "Taichung"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2350
+msgid "Taif"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2351
+msgid "Tain"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2352
+msgid "Tainan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2353
+msgid "Taiwan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2354
+msgid "Taiyuan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2355
+msgid "Taiz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2356
+msgid "Tajima"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2357
+msgid "Takamatsu Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2358
+msgid "Talara"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2359
+msgid "Talkeetna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2360
+msgid "Tallahassee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2361
+msgid "Tallinn"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2362
+msgid "Tamanrasset"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2363
+msgid "Tamanrasset/Aguenna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2364
+msgid "Tampa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2365
+msgid "Tampa-Macdill AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2366
+msgid "Tampere"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2367
+msgid "Tampico"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2368
+msgid "Tanana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2369
+msgid "Tanegashima Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2370
+msgid "Taos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2371
+msgid "Taoyuan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2372
+msgid "Tapachula"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2373
+msgid "Taranto"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2374
+msgid "Tarbes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2375
+msgid "Tarija"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2376
+msgid "Tartu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2377
+msgid "Tarvisio"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2378
+msgid "Taszár"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2379
+msgid "Tatalina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2380
+msgid "Tateyama Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2381
+msgid "Taunton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2382
+msgid "Tawau"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2383
+msgid "Tebessa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2384
+msgid "Teesside"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2385
+msgid "Tegucigalpa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2386
+msgid "Tehran-Mehrabad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2387
+msgid "Tela"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2388
+msgid "Temple"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2389
+msgid "Tennessee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2390
+msgid "Tepic"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2391
+msgid "Teresina"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2392
+msgid "Terre Haute"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2393
+msgid "Terrell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2394
+msgid "Teterboro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2395
+msgid "Texarkana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2396
+msgid "Texas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2397
+msgid "Thailand"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2398
+msgid "The Dalles"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2399
+msgid "Thessaloniki"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2400
+msgid "Thief River Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2401
+msgid "Thiruvananthapuram"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2402
+msgid "Thisted"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2403
+msgid "Thompson Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2404
+msgid "Thumrait"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2405
+msgid "Thunder Bay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2406
+msgid "Tianjin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2407
+msgid "Tijuana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2408
+msgid "Timisoara"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2409
+msgid "Timmins"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2410
+msgid "Tin City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2411
+msgid "Tirana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2412
+msgid "Tiree"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2413
+msgid "Tirgu Mures"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2414
+msgid "Tiruchchirapalli"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2415
+msgid "Titusville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2416
+msgid "Tivat"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2417
+msgid "Tlemcen Zenata"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2418
+msgid "Tobias Bolanos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2419
+msgid "Tocumen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2420
+msgid "Togiak Village"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2421
+msgid "Tokachi GSDF"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2422
+msgid "Tokunoshima Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2423
+msgid "Tokushima Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2424
+msgid "Tokyo Heliport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2425
+msgid "Tokyo International Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2426
+msgid "Tokyo New International Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2427
+msgid "Toledo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2428
+msgid "Toluca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2429
+msgid "Tonopah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2430
+msgid "Topcliffe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2431
+msgid "Topeka"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2432
+msgid "Topeka-Forbes Field"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2433
+msgid "Torino/Bric Della Croce"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2434
+msgid "Torino/Caselle"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2435
+msgid "Toronto"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2436
+msgid "Torp"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2437
+msgid "Torrance"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2438
+msgid "Torreon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2439
+msgid "Tottori Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2440
+msgid "Toul-Rosieres"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2441
+msgid "Toulouse"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2442
+msgid "Tours-St-Symphorien"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2443
+msgid "Toussus-Le Noble"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2444
+msgid "Townsville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2445
+msgid "Toyama Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2446
+msgid "Trabzon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2447
+msgid "Trapani"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2448
+msgid "Traverse City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2449
+msgid "Trelew"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2450
+msgid "Trenton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2451
+msgid "Trevico"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2452
+msgid "Treviso/Istrana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2453
+msgid "Treviso/S.Angelo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2454
+msgid "Trieste"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2455
+msgid "Trinidad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2456
+msgid "Tripoli"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2457
+msgid "Trois Rivieres"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2458
+msgid "Tromso/Langnes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2459
+msgid "Trondheim/Vaernes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2460
+msgid "Troutdale"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2461
+msgid "Troyes/Barberey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2462
+msgid "Truckee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2463
+msgid "Truro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2464
+msgid "Truth or Consequences"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2465
+msgid "Tsuiki Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2466
+msgid "Tsushima Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2467
+msgid "Tucson"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2468
+msgid "Tucson-Davis AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2469
+msgid "Tucuman"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2470
+msgid "Tucumcari"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2471
+msgid "Tucurui"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2472
+msgid "Tulcea"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2473
+msgid "Tulsa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2474
+msgid "Tupelo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2475
+msgid "Turaif"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2476
+msgid "Turin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2477
+msgid "Turkey"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2478
+msgid "Turku"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2479
+msgid "Tuscaloosa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2480
+msgid "Tuxtla Gutierrez"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2481
+msgid "Twenthe"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2482
+msgid "Twentynine Palms"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2483
+msgid "Twin Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2484
+msgid "Tyler"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2485
+msgid "Tyndall AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2486
+msgid "Tyumen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2487
+msgid "Tököl"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2488
+msgid "Uberaba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2489
+msgid "Ufa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2490
+msgid "Ukiah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2491
+msgid "Ukraine"
+msgstr ""
+
+#. TRANSLATOR: Ulan-Bator is also known as "Ulaanbaatar"
+#: gde2weather/Locations.xml.in.h:2493
+msgid "Ulan-Bator"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2494
+msgid "Ulan-Ude"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2495
+msgid "Ulsan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2496
+msgid "Ulyanovsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2497
+msgid "Umea"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2498
+msgid "Umiat"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2499
+msgid "Unalakleet"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2500
+msgid "United Arab Emirates"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2501
+msgid "United Kingdom"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2502
+msgid "United States"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2503
+msgid "Unst"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2504
+msgid "Upington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2505
+msgid "Uppsala"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2506
+msgid "Uruapan"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2507
+msgid "Uruguaiana"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2508
+msgid "Uruguay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2509
+msgid "Urumqi"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2510
+msgid "Utah"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2511
+msgid "Utica"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2512
+msgid "Utrecht/Soesterberg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2513
+msgid "Utsunomiya Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2514
+msgid "Uzhhorod"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2515
+msgid "Vaasa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2516
+msgid "Vadso"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2517
+msgid "Vaerlose"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2518
+msgid "Vagar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2519
+msgid "Valdez 2"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2520
+msgid "Valdosta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2521
+msgid "Valdosta-Moody AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2522
+msgid "Valencia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2523
+msgid "Valentine"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2524
+msgid "Valera*"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2525
+msgid "Valkenburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2526
+msgid "Valley"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2527
+msgid "Valparaiso"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2528
+msgid "Valparaiso-Eglin AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2529
+msgid "Van"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2530
+msgid "Van Nuys"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2531
+msgid "Vancouver"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2532
+msgid "Vandel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2533
+msgid "Vandenberg AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2534
+msgid "Vandenberg Range"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2535
+msgid "Varadero"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2536
+msgid "Varanasi/Babatpur"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2537
+msgid "Varna"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2538
+msgid "Vasteras"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2539
+msgid "Vaxjo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2540
+msgid "Venezia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2541
+msgid "Venezuela"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2542
+msgid "Venice"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2543
+msgid "Veracruz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2544
+msgid "Vermillion"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2545
+msgid "Vermont"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2546
+msgid "Vernal"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2547
+msgid "Vero Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2548
+msgid "Vicenza"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2549
+msgid "Vichy-Charmeil"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2550
+msgid "Vichy-Rolla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2551
+msgid "Vicksburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2552
+msgid "Victoria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2553
+msgid "Viet Nam"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2554
+msgid "Vigo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2555
+msgid "Vilhena"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2556
+msgid "Villa Reynolds"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2557
+msgid "Villacoublay"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2558
+msgid "Villafranca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2559
+msgid "Villahermosa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2560
+msgid "Villamontes"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2561
+msgid "Vilnius"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2562
+msgid "Vinnytsia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2563
+msgid "Virginia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2564
+msgid "Virginia Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2565
+msgid "Virginia Tech Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2566
+msgid "Viru-Viru"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2567
+msgid "Visalia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2568
+msgid "Visby"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2569
+msgid "Viterbo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2570
+msgid "Vitoria"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2571
+msgid "Vladikavkaz"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2572
+msgid "Vladivostok"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2573
+msgid "Vlieland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2574
+msgid "Vojens/Skrydstrup"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2575
+msgid "Volgograd"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2576
+msgid "Volk Field"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2577
+msgid "Volkel"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2578
+msgid "Voronezh"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2579
+msgid "Voslau"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2580
+msgid "Waco"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2581
+msgid "Waddington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2582
+msgid "Wadi Al Dawasser Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2583
+msgid "Wainwright"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2584
+msgid "Wakefield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2585
+msgid "Wakkanai Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2586
+msgid "Wales"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2587
+msgid "Walla Walla"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2588
+msgid "Wallops Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2589
+msgid "Walnut Ridge"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2590
+msgid "Warner Robins"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2591
+msgid "Warroad"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2592
+msgid "Warszawa"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2593
+msgid "Washington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2594
+msgid "Waterbury"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2595
+msgid "Waterloo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2596
+msgid "Watertown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2597
+msgid "Waterville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2598
+msgid "Wattisham"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2599
+msgid "Waukesha"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2600
+msgid "Wausau"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2601
+msgid "Waycross"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2602
+msgid "Waynesboro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2603
+msgid "Webster City"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2604
+msgid "Wejh"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2605
+msgid "Wellington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2606
+msgid "Wenatchee"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2607
+msgid "Wendover"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2608
+msgid "West Atlanta"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2609
+msgid "West Burke"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2610
+msgid "West Palm Beach"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2611
+msgid "West Virginia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2612
+msgid "West Yellowstone"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2613
+msgid "West Yellowstone (2)"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2614
+msgid "Westerland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2615
+msgid "Westfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2616
+msgid "Westhampton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2617
+msgid "Wheeling"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2618
+msgid "Whidbey Island"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2619
+msgid "White Plains"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2620
+msgid "White Sulphur"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2621
+msgid "Whitefield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2622
+msgid "Whitehorse"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2623
+msgid "Whittier"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2624
+msgid "Wichita"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2625
+msgid "Wichita Falls"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2626
+msgid "Wichita-Jabara"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2627
+msgid "Wichita-McConnell AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2628
+msgid "Wick"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2629
+msgid "Wien"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2630
+msgid "Wildwood"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2631
+msgid "Wilkes - Barre"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2632
+msgid "Williamsport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2633
+msgid "Williston"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2634
+msgid "Willoughby"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2635
+msgid "Willow Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2636
+msgid "Wilmington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2637
+msgid "Winchester"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2638
+msgid "Windsor"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2639
+msgid "Windsor Locks"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2640
+msgid "Wink"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2641
+msgid "Winnemucca"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2642
+msgid "Winnipeg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2643
+msgid "Winslow"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2644
+msgid "Winston-Salem"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2645
+msgid "Winter Haven"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2646
+msgid "Winter Park"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2647
+msgid "Wiscasset"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2648
+msgid "Wisconsin"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2649
+msgid "Wisconsin Rapids"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2650
+msgid "Wise"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2651
+msgid "Wittering"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2652
+msgid "Woensdrecht"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2653
+msgid "Wolf Point"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2654
+msgid "Woong Cheon"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2655
+msgid "Wooster"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2656
+msgid "Worcester"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2657
+msgid "Worland"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2658
+msgid "Worthington"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2659
+msgid "Wrangell"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2660
+msgid "Wrightstown / Mcguire AFB"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2661
+msgid "Wroclaw"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2662
+msgid "Wuchia Observatory"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2663
+msgid "Wyoming"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2664
+msgid "Wyton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2665
+msgid "Xiamen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2666
+msgid "Yacuiba"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2667
+msgid "Yakima"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2668
+msgid "Yakushima"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2669
+msgid "Yakutat"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2670
+msgid "Yakutsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2671
+msgid "Yamagata Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2672
+msgid "Yamaguchi Ube Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2673
+msgid "Yankton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2674
+msgid "Yao Airport"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2675
+msgid "Yarmouth"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2676
+msgid "Yechon Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2677
+msgid "Yekaterinburg"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2678
+msgid "Yellowknife"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2679
+msgid "Yellowstone"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2680
+msgid "Yemen"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2681
+msgid "Yenbo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2682
+msgid "Yeoju Range"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2683
+msgid "Yeonpyeungdo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2684
+msgid "Yeovilton"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2685
+msgid "Yokosuka Fwf"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2686
+msgid "Yokota Ab"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2687
+msgid "Yongsan/H-208 Hp"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2688
+msgid "Yoro"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2689
+msgid "Yosu"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2690
+msgid "Youngstown"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2691
+msgid "Ypsilanti"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2692
+msgid "Yugoslavia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2693
+msgid "Yukon"
+msgstr ""
+
+#. TRANSLATOR: MCAS is short for "Marine Corp Air Station"
+#: gde2weather/Locations.xml.in.h:2695
+msgid "Yuma MCAS"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2696
+msgid "Yurimaguas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2697
+msgid "Yuzhno-Sakhalinsk"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2698
+msgid "Zacatecas"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2699
+msgid "Zadar"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2700
+msgid "Zagreb"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2701
+msgid "Zakinthos"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2702
+msgid "Zama Airfield"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2703
+msgid "Zanesville"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2704
+msgid "Zaporizhzhia"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2705
+msgid "Zaragoza"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2706
+msgid "Zaventem"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2707
+msgid "Zell Am See"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2708
+msgid "Zielona Gora"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2709
+msgid "Zuni Pueblo"
+msgstr ""
+
+#: gde2weather/Locations.xml.in.h:2710
+msgid "Zurich"
+msgstr ""

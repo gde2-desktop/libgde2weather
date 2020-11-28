@@ -1,0 +1,326 @@
+;; -*- scheme -*-
+; boxed definitions ...
+
+(define-boxed Location
+  (in-module "Gde2Weather")
+  (c-name "Gde2WeatherLocation")
+  (gtype-id "GDE2WEATHER_TYPE_LOCATION")
+)
+
+(define-boxed Timezone
+  (in-module "Gde2Weather")
+  (c-name "Gde2WeatherTimezone")
+  (gtype-id "GDE2WEATHER_TYPE_TIMEZONE")
+)
+
+; interface definitions ...
+
+; object definitions ...
+
+(define-object LocationEntry
+  (in-module "Gde2Weather")
+  (parent "GtkEntry")
+  (c-name "Gde2WeatherLocationEntry")
+  (gtype-id "GDE2WEATHER_TYPE_LOCATION_ENTRY")
+)
+
+(define-object TimezoneMenu
+  (in-module "Gde2Weather")
+  (parent "GtkComboBox")
+  (c-name "Gde2WeatherTimezoneMenu")
+  (gtype-id "GDE2WEATHER_TYPE_TIMEZONE_MENU")
+)
+
+; pointer definitions ...
+
+;; Enumerations and Flags ...
+
+(define-enum LocationLevel
+  (in-module "Gde2Weather")
+  (c-name "Gde2WeatherLocationLevel")
+  (gtype-id "GDE2WEATHER_TYPE_LOCATION_LEVEL")
+  (values
+    '("world" "GDE2WEATHER_LOCATION_WORLD")
+    '("region" "GDE2WEATHER_LOCATION_REGION")
+    '("country" "GDE2WEATHER_LOCATION_COUNTRY")
+    '("adm1" "GDE2WEATHER_LOCATION_ADM1")
+    '("adm2" "GDE2WEATHER_LOCATION_ADM2")
+    '("city" "GDE2WEATHER_LOCATION_CITY")
+    '("weather-station" "GDE2WEATHER_LOCATION_WEATHER_STATION")
+  )
+)
+
+
+;; From gde2weather-enum-types.h
+
+(define-function g_weather_location_level_get_type
+  (c-name "g_weather_location_level_get_type")
+  (return-type "GType")
+)
+
+
+
+;; From gde2weather-location.h
+
+(define-function location_get_type
+  (c-name "gde2weather_location_get_type")
+  (return-type "GType")
+)
+
+(define-function location_new_world
+  (c-name "gde2weather_location_new_world")
+  (return-type "Gde2WeatherLocation*")
+  (parameters
+    '("gboolean" "use_regions")
+  )
+)
+
+(define-method ref
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_ref")
+  (return-type "Gde2WeatherLocation*")
+)
+
+(define-method unref
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_unref")
+  (return-type "none")
+)
+
+(define-method get_name
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_name")
+  (return-type "const-char*")
+)
+
+(define-method get_sort_name
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_sort_name")
+  (return-type "const-char*")
+)
+
+(define-method get_level
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_level")
+  (return-type "Gde2WeatherLocationLevel")
+)
+
+(define-method get_parent
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_parent")
+  (return-type "Gde2WeatherLocation*")
+)
+
+(define-method get_children
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_children")
+  (return-type "Gde2WeatherLocation**")
+)
+
+(define-method free_children
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_free_children")
+  (return-type "none")
+  (parameters
+    '("Gde2WeatherLocation**" "children")
+  )
+)
+
+(define-method has_coords
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_has_coords")
+  (return-type "gboolean")
+)
+
+(define-method get_coords
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_coords")
+  (return-type "none")
+  (parameters
+    '("double*" "latitude")
+    '("double*" "longitude")
+  )
+)
+
+(define-method get_distance
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_distance")
+  (return-type "double")
+  (parameters
+    '("Gde2WeatherLocation*" "loc2")
+  )
+)
+
+(define-method get_country
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_country")
+  (return-type "const-char*")
+)
+
+(define-method get_timezone
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_timezone")
+  (return-type "Gde2WeatherTimezone*")
+)
+
+(define-method get_timezones
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_timezones")
+  (return-type "Gde2WeatherTimezone**")
+)
+
+(define-method free_timezones
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_free_timezones")
+  (return-type "none")
+  (parameters
+    '("Gde2WeatherTimezone**" "zones")
+  )
+)
+
+(define-method get_code
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_code")
+  (return-type "const-char*")
+)
+
+(define-method get_city_name
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_city_name")
+  (return-type "char*")
+)
+
+(define-method get_weather
+  (of-object "Gde2WeatherLocation")
+  (c-name "gde2weather_location_get_weather")
+  (return-type "WeatherInfo*")
+)
+
+
+
+;; From gde2weather-timezone.h
+
+(define-function timezone_get_type
+  (c-name "gde2weather_timezone_get_type")
+  (return-type "GType")
+)
+
+(define-method get_name
+  (of-object "Gde2WeatherTimezone")
+  (c-name "gde2weather_timezone_get_name")
+  (return-type "const-char*")
+)
+
+(define-method get_tzid
+  (of-object "Gde2WeatherTimezone")
+  (c-name "gde2weather_timezone_get_tzid")
+  (return-type "const-char*")
+)
+
+(define-method get_offset
+  (of-object "Gde2WeatherTimezone")
+  (c-name "gde2weather_timezone_get_offset")
+  (return-type "int")
+)
+
+(define-method has_dst
+  (of-object "Gde2WeatherTimezone")
+  (c-name "gde2weather_timezone_has_dst")
+  (return-type "gboolean")
+)
+
+(define-method get_dst_offset
+  (of-object "Gde2WeatherTimezone")
+  (c-name "gde2weather_timezone_get_dst_offset")
+  (return-type "int")
+)
+
+(define-method ref
+  (of-object "Gde2WeatherTimezone")
+  (c-name "gde2weather_timezone_ref")
+  (return-type "Gde2WeatherTimezone*")
+)
+
+(define-method unref
+  (of-object "Gde2WeatherTimezone")
+  (c-name "gde2weather_timezone_unref")
+  (return-type "none")
+)
+
+
+
+;; From location-entry.h
+
+(define-function location_entry_get_type
+  (c-name "gde2weather_location_entry_get_type")
+  (return-type "GType")
+)
+
+(define-function location_entry_new
+  (c-name "gde2weather_location_entry_new")
+  (is-constructor-of "Gde2WeatherLocationEntry")
+  (return-type "GtkWidget*")
+  (properties
+    '("top")
+  )
+)
+
+(define-method set_location
+  (of-object "Gde2WeatherLocationEntry")
+  (c-name "gde2weather_location_entry_set_location")
+  (return-type "none")
+  (parameters
+    '("Gde2WeatherLocation*" "loc")
+  )
+)
+
+(define-method get_location
+  (of-object "Gde2WeatherLocationEntry")
+  (c-name "gde2weather_location_entry_get_location")
+  (return-type "Gde2WeatherLocation*")
+)
+
+(define-method set_city
+  (of-object "Gde2WeatherLocationEntry")
+  (c-name "gde2weather_location_entry_set_city")
+  (return-type "none")
+  (parameters
+    '("const-char*" "city_name")
+    '("const-char*" "code")
+  )
+)
+
+
+
+;; From timezone-menu.h
+
+(define-function timezone_menu_get_type
+  (c-name "gde2weather_timezone_menu_get_type")
+  (return-type "GType")
+)
+
+(define-function timezone_menu_new
+  (c-name "gde2weather_timezone_menu_new")
+  (is-constructor-of "Gde2WeatherTimezoneMenu")
+  (return-type "GtkWidget*")
+  (properties
+    '("top")
+  )
+)
+
+(define-method set_tzid
+  (of-object "Gde2WeatherTimezoneMenu")
+  (c-name "gde2weather_timezone_menu_set_tzid")
+  (return-type "none")
+  (parameters
+    '("const-char*" "tzid")
+  )
+)
+
+(define-method get_tzid
+  (of-object "Gde2WeatherTimezoneMenu")
+  (c-name "gde2weather_timezone_menu_get_tzid")
+  (return-type "const-char*")
+)
+
+

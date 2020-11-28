@@ -1,0 +1,12 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+#
+[encoding: UTF-8]
+libgde2weather/gde2weather-prefs.c
+libgde2weather/gde2weather-timezone.c
+[type: gettext/gsettings]libgde2weather/org.gde2.weather.gschema.xml.in
+libgde2weather/timezone-menu.c
+libgde2weather/weather-iwin.c
+libgde2weather/weather-metar.c
+libgde2weather/weather-wx.c
+libgde2weather/weather.c

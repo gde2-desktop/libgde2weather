@@ -1,0 +1,936 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-27 15:08+0300\n"
+"PO-Revision-Date: 2016-06-27 11:44+0000\n"
+"Last-Translator: monsta <monsta@inbox.ru>\n"
+"Language-Team: Dzongkha (http://www.transifex.com/gde2/GDE2/language/dz/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: dz\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../libgde2weather/gde2weather-prefs.c:93
+#: ../libgde2weather/gde2weather-prefs.c:113
+#: ../libgde2weather/gde2weather-prefs.c:139
+#: ../libgde2weather/gde2weather-prefs.c:168
+msgid "Default"
+msgstr "སྔོན་སྒྲིག"
+
+#. translators: Kelvin
+#: ../libgde2weather/gde2weather-prefs.c:96
+msgid "K"
+msgstr ""
+
+#. translators: Celsius
+#: ../libgde2weather/gde2weather-prefs.c:99
+msgid "C"
+msgstr ""
+
+#. translators: Fahrenheit
+#: ../libgde2weather/gde2weather-prefs.c:102
+msgid "F"
+msgstr ""
+
+#: ../libgde2weather/gde2weather-prefs.c:104
+#: ../libgde2weather/gde2weather-prefs.c:130
+#: ../libgde2weather/gde2weather-prefs.c:159
+#: ../libgde2weather/gde2weather-prefs.c:179 ../libgde2weather/weather.c:253
+#: ../libgde2weather/weather.c:270 ../libgde2weather/weather.c:342
+msgid "Invalid"
+msgstr "ནུས་མེད།"
+
+#. translators: meters per second
+#: ../libgde2weather/gde2weather-prefs.c:116
+msgid "m/s"
+msgstr "སྐར་ཆ་རེ་ནང་ མི་ཊར།"
+
+#. translators: kilometers per hour
+#: ../libgde2weather/gde2weather-prefs.c:119
+msgid "km/h"
+msgstr "ཆུ་ཚོད་རེ་ནང་ ཀི་ལོ་མི་ཊར།"
+
+#. translators: miles per hour
+#: ../libgde2weather/gde2weather-prefs.c:122
+msgid "mph"
+msgstr "ཆུ་ཚོད་རེ་ནང་ མ་ཡིལ།"
+
+#. translators: knots (speed unit)
+#: ../libgde2weather/gde2weather-prefs.c:125
+msgid "knots"
+msgstr "ནོཊསི།"
+
+#. translators: wind speed
+#: ../libgde2weather/gde2weather-prefs.c:128
+msgid "Beaufort scale"
+msgstr "བིའུ་ཕོརཊི་ཆ་ཚད།"
+
+#. translators: kilopascals
+#: ../libgde2weather/gde2weather-prefs.c:142
+msgid "kPa"
+msgstr "ཀི་ལོ་པཱསི་ཀཱལ།"
+
+#. translators: hectopascals
+#: ../libgde2weather/gde2weather-prefs.c:145
+msgid "hPa"
+msgstr "ཧེཀ་ཊོ་པཱསི་ཀཱལ།"
+
+#. translators: millibars
+#: ../libgde2weather/gde2weather-prefs.c:148
+msgid "mb"
+msgstr "མི་ལི་བཱར།"
+
+#. translators: millimeters of mercury
+#: ../libgde2weather/gde2weather-prefs.c:151
+msgid "mmHg"
+msgstr "མར་ཀུ་རིའི་ མི་ལི་བར། "
+
+#. translators: inches of mercury
+#: ../libgde2weather/gde2weather-prefs.c:154
+msgid "inHg"
+msgstr "མར་ཀུ་རིའི་ ཨིན་ཅེསི།"
+
+#. translators: atmosphere
+#: ../libgde2weather/gde2weather-prefs.c:157
+msgid "atm"
+msgstr "བར་སྣང་གི་ཁམས།"
+
+#. translators: meters
+#: ../libgde2weather/gde2weather-prefs.c:171
+msgid "m"
+msgstr ""
+
+#. translators: kilometers
+#: ../libgde2weather/gde2weather-prefs.c:174
+msgid "km"
+msgstr "ཀི་ལོ་མི་ཊར།"
+
+#. translators: miles
+#: ../libgde2weather/gde2weather-prefs.c:177
+msgid "mi"
+msgstr ""
+
+#: ../libgde2weather/gde2weather-timezone.c:315
+msgid "Greenwich Mean Time"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:1
+msgid "Show notifications"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:2
+msgid "Determines whether the applet shows a notification on each update."
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:3
+msgid "Update the data automatically"
+msgstr "གནད་སྡུད་རང་བཞིན་གྱིས་ དུས་མཐུན་བཟོ།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:4
+msgid ""
+"Determines whether the applet automatically updates its weather statistics "
+"or not."
+msgstr "ཨེཔ་ལེཊི་གིས་ རང་བཞིན་གྱིས་ གནམ་གཤིས་ཚད་རྩིས་ཚུ་ དུས་མཐུན་བཟོ་མི་བཟོ་ ངོས་འཛིན་འབདཝ་ཨིན།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:5
+msgid "Update interval"
+msgstr "བར་མཚམས་དུས་མཐུན་བཟོ།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:6
+msgid "The interval, in seconds, between automatic updates."
+msgstr "རང་བཞིན་དུས་མཐུན་བཟོ་བའི་ བར་ན་གི་བར་མཚམས་ སྐར་ཆའི་ནང་།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:7
+msgid "Use metric units"
+msgstr "མེ་ཊིཀ་ཆ་ཕྲན་ ལག་ལེན་འཐབ།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:8
+msgid "Use metric units instead of english units."
+msgstr "ཨིང་ལིཤ་ཆ་ཕྲན་གྱི་ཚབ་ལུ་ མེ་ཊིཀ་ཆ་ཕྲན་ ལག་ལེན་འཐབ།"
+
+#. TRANSLATORS: pick a default distance unit for your locale, see key
+#. description
+#. for valid values; values must be quoted
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:11
+msgid "'miles'"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:12
+msgid "Distance unit"
+msgstr "རྒྱང་ཚད་ཆ་ཕྲན།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:13
+msgid "The unit to use for visibility. Values: 'meters', 'km' ,'miles'."
+msgstr ""
+
+#. TRANSLATORS: pick a default pressure unit for your locale, see key
+#. description
+#. for valid values; values must be quoted
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:16
+msgid "'inHg'"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:17
+msgid "Pressure unit"
+msgstr "ཨེབ་ཤུགས་ཆ་ཕྲན།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:18
+msgid ""
+"The unit to use for pressure. Values: 'kPa', 'hPa', 'mb', 'mmHg', 'inHg', "
+"'atm'."
+msgstr ""
+
+#. TRANSLATORS: pick a default speed unit for your locale, see key description
+#. for valid values; values must be quoted
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:21
+msgid "'knots'"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:22
+msgid "Speed unit"
+msgstr "མགྱོགས་ཚད་ཆ་ཕྲན།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:23
+msgid ""
+"The unit to use for wind speed. Values: 'm/s', 'km/h, 'mph', 'knots', "
+"'Beaufort scale'."
+msgstr ""
+
+#. TRANSLATORS: pick a temperature unit that should be used by default in your
+#. locale, see key description for valid values; values must be quoted
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:26
+msgid "'Fahrenheit'"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:27
+msgid "Temperature unit"
+msgstr "དྲོད་ཤུགས་ཆ་ཕྲན།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:28
+msgid ""
+"The unit to use for temperature. Values: 'Kelvin', 'Centigrade', "
+"'Fahrenheit'."
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:29
+msgid "Not used anymore"
+msgstr "ད་རིས་ནངས་པར་ ལག་ལེན་འཐབ་སྲོལ་མེད།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:30
+msgid "Display radar map"
+msgstr "ར་ཌར་ས་ཁྲ་ བཀྲམ་སྟོན་འབད།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:31
+msgid "Fetch a radar map on each update."
+msgstr "དུས་མཐུན་ཚར་རེ་བཟོཝ་ད་ ར་ཌར་ས་ཁྲ་རེ་ལེན།"
+
+#. TRANSLATORS: Change this to the default location name, used
+#. when you first start the Weather Applet. This is the common
+#. localised name that corresponds to the location code
+#. (DEFAULT_CODE) you will put on the next message. For example, for
+#. the Greek locale, we set this to "Athens", the capital city and we
+#. write it in Greek. It's important to translate this name. If you
+#. do not require a DEFAULT_LOCATION, set this to
+#. "DEFAULT_LOCATION".
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:40
+msgid "'DEFAULT_LOCATION'"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:41
+msgid "Weather location information"
+msgstr "གནམ་གཤིས་གནས་ཁོངས་ཀྱི་བརྡ་དོན་"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:42
+msgid "Weather location information."
+msgstr "Weather location information."
+
+#. TRANSLATORS: Change this to the code of your default location
+#. that corresponds to the DEFAULT_LOCATION name you put above. This
+#. is normally a four-letter (ICAO) code and can be found in
+#. https://github.com/gde2-
+#. desktop/libgde2weather/blob/master/data/Locations.xml.in.
+#. NB. The web page is over 1.7MB in size. Pick a default location
+#. like a capital city so that it would be ok for more of your users.
+#. For example, for Greek, we use "LGAV" for the capital city, Athens.
+#. If you do not require a DEFAULT_CODE, set this to "DEFAULT_CODE".
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:51
+msgid "'DEFAULT_CODE'"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:52
+msgid "Nearby city"
+msgstr "ཉེ་འདབས་ཀྱི་ཁྲོམ་སྡེ།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:53
+msgid ""
+"Nearby major zone, such as a capital city, as found from "
+"https://raw.github.com/gde2-"
+"desktop/libgde2weather/master/data/Locations.xml.in"
+msgstr ""
+
+#. TRANSLATORS: Change this to the zone of your default location
+#. that corresponds to the DEFAULT_LOCATION and DEFAULT_CODE you put
+#. above. Normally, US and Canada locations have zones while the rest
+#. do not. Check
+#. https://github.com/gde2-
+#. desktop/libgde2weather/blob/master/data/Locations.xml.in
+#. as any zone you put here must also be present in the Locations.xml
+#. file. If your default location does not have a zone, set this to
+#. "DEFAULT_ZONE".
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:62
+msgid "'DEFAULT_ZONE'"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:63
+msgid "Zone location"
+msgstr "གླིང་སྡེའི་གནས་ཁོངས།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:64
+msgid ""
+"A unique zone for the city, as found from https://raw.github.com/gde2-"
+"desktop/libgde2weather/master/data/Locations.xml.in"
+msgstr ""
+
+#. TRANSLATORS: Change this to the radar of your default location
+#. that corresponds to the DEFAULT_LOCATION and DEFAULT_CODE you put
+#. above. Normally, US and Canada locations have radar names while the
+#. rest do not. Check
+#. https://github.com/gde2-
+#. desktop/libgde2weather/blob/master/data/Locations.xml.in
+#. as any radar you put here must also be present in the Locations.xml
+#. file. If your default location does not have a radar, set this to
+#. " " (or space).
+#. If you do not have a default location, set this to DEFAULT_RADAR.
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:74
+msgid "'DEFAULT_RADAR'"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:75
+msgid "Radar location"
+msgstr "ར་ཌར་གནས་ཁོངས།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:76
+msgid ""
+"A three-digit-long code for retrieving radar maps from weather.com, found "
+"from https://raw.github.com/gde2-"
+"desktop/libgde2weather/master/data/Locations.xml.in"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:77
+msgid "Weather for a city"
+msgstr "ཁྲོམ་སྡེ་ཅིག་གནམ་གཤིས།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:78
+msgid "The city that gde2weather displays information for."
+msgstr "ཇི་ཝེ་དར་གྱིས་ བརྡ་དོན་བཀྲམ་སྟོན་འབད་མི་ཁྲོམ་སྡེ།"
+
+#. TRANSLATORS: Change this to the coordinates of your default
+#. location that corresponds to the DEFAULT_LOCATION and DEFAULT_CODE
+#. you put above. Check
+#. https://github.com/gde2-
+#. desktop/libgde2weather/blob/master/data/Locations.xml.in
+#. as any coordinates you put here must also be present in the
+#. Locations.xml file. If your default location does not have known
+#. coordinates, set this to " " (or space). If you do not have a
+#. default location, set this to DEFAULT_COORDINATES.
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:87
+msgid "'DEFAULT_COORDINATES'"
+msgstr ""
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:88
+msgid "Location coordinates"
+msgstr "གནས་ཁོངས་ཀྱི་ཆ་སྙོམ།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:89
+msgid ""
+"Latitude and longitude of your location expressed in DD-MM-SS[NS] DD-MM-"
+"SS[EW]."
+msgstr "Latitude and longitude of your location expressed in DD-MM-SS[NS] DD-MM-SS[EW]."
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:90
+msgid "Use custom url for the radar map"
+msgstr "ར་ཌར་ས་ཁྲའི་དོན་ལུ་ སྲོལ་སྒྲིག་གི་ ཡུ་ཨར་ཨེལ་ ལག་ལེན་འཐབ།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:91
+msgid ""
+"If true, then retrieve a radar map from a location specified by the "
+"\"radar\" key."
+msgstr "བདེན་པ་ཨིན་པ་ཅིན་ \"radar\"ལྡེ་མིག་གིས་ གསལ་བཀོད་འབད་མི་ གནས་ཁོངས་ནང་ལས་ ར་ཌར་ས་ཁྲ་ཅིག་ སླར་འདྲེན་འབད།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:92
+msgid "Url for the radar map"
+msgstr "ར་ཌར་ས་ཁྲའི་དོན་ལུ་ ཡུ་ཨར་ཨེལ།"
+
+#: ../libgde2weather/org.gde2.weather.gschema.xml.in.h:93
+msgid "The custom url from where to retrieve a radar map."
+msgstr "ར་ཌར་ས་ཁྲ་ སླར་འདྲེན་འབད་སའི་ སྲོལ་སྒྲིག་གི་ ཡུ་ཨར་ཨེལ།"
+
+#: ../libgde2weather/timezone-menu.c:278
+msgctxt "timezone"
+msgid "Unknown"
+msgstr ""
+
+#. Translators: %d is an error code, and %s the error string
+#: ../libgde2weather/weather-metar.c:504
+#, c-format
+msgid "Failed to get METAR data: %d %s.\n"
+msgstr ""
+
+#: ../libgde2weather/weather-metar.c:548
+msgid "WeatherInfo missing location"
+msgstr "གནམ་གཤིས་བརྡ་དོན་མེད་པའི་གནས་ཁོངས།"
+
+#: ../libgde2weather/weather.c:242
+msgid "Variable"
+msgstr "འགྱུར་བ་ཅན།"
+
+#: ../libgde2weather/weather.c:243
+msgid "North"
+msgstr "བྱང་།"
+
+#: ../libgde2weather/weather.c:243
+msgid "North - NorthEast"
+msgstr "བྱང་-བྱང་ཤར།"
+
+#: ../libgde2weather/weather.c:243
+msgid "Northeast"
+msgstr "བྱང་ཤར།"
+
+#: ../libgde2weather/weather.c:243
+msgid "East - NorthEast"
+msgstr "ཤར་-བྱང་ཤར།"
+
+#: ../libgde2weather/weather.c:244
+msgid "East"
+msgstr "ཤར།"
+
+#: ../libgde2weather/weather.c:244
+msgid "East - Southeast"
+msgstr "ཤར་-ཤར་ལྷོ།"
+
+#: ../libgde2weather/weather.c:244
+msgid "Southeast"
+msgstr "ཤར་ལྷོ།"
+
+#: ../libgde2weather/weather.c:244
+msgid "South - Southeast"
+msgstr "ལྷོ་-ཤར་ལྷོ།"
+
+#: ../libgde2weather/weather.c:245
+msgid "South"
+msgstr "ལྷོ།"
+
+#: ../libgde2weather/weather.c:245
+msgid "South - Southwest"
+msgstr "ལྷོ་-ལྷོ་ནུབ།"
+
+#: ../libgde2weather/weather.c:245
+msgid "Southwest"
+msgstr "ལྷོ་ནུབ།"
+
+#: ../libgde2weather/weather.c:245
+msgid "West - Southwest"
+msgstr "ནུབ་-ལྷོ་ནུབ།"
+
+#: ../libgde2weather/weather.c:246
+msgid "West"
+msgstr "ནུབ།"
+
+#: ../libgde2weather/weather.c:246
+msgid "West - Northwest"
+msgstr "ནུབ་-ནུབ་བྱང་།"
+
+#: ../libgde2weather/weather.c:246
+msgid "Northwest"
+msgstr "ནུབ་བྱང་།"
+
+#: ../libgde2weather/weather.c:246
+msgid "North - Northwest"
+msgstr "བྱང་-ནུབ་བྱང་།"
+
+#: ../libgde2weather/weather.c:259
+msgid "Clear Sky"
+msgstr "གནམ་དྭངས།"
+
+#: ../libgde2weather/weather.c:260
+msgid "Broken clouds"
+msgstr "བར་ཆད་པའི་ས་སྨུག"
+
+#: ../libgde2weather/weather.c:261
+msgid "Scattered clouds"
+msgstr "ཁ་ཐོར་བའི་ས་སྨུག"
+
+#: ../libgde2weather/weather.c:262
+msgid "Few clouds"
+msgstr "ས་སྨུག་ཐར་ཐོར།"
+
+#: ../libgde2weather/weather.c:263
+msgid "Overcast"
+msgstr "སྨུག་གྲིབ་ཅན།"
+
+#. TRANSLATOR: If you want to know what "blowing" "shallow" "partial"
+#. * etc means, you can go to http://www.weather.com/glossary/ and
+#. * http://www.crh.noaa.gov/arx/wx.tbl.php
+#. NONE
+#: ../libgde2weather/weather.c:302 ../libgde2weather/weather.c:304
+msgid "Thunderstorm"
+msgstr "འབྲུག་ཆར།"
+
+#. DRIZZLE
+#: ../libgde2weather/weather.c:303
+msgid "Drizzle"
+msgstr "ཟིམ་ཆར།"
+
+#: ../libgde2weather/weather.c:303
+msgid "Light drizzle"
+msgstr "ཟིམ་ཆར་དུམ་གྲ་རེ།"
+
+#: ../libgde2weather/weather.c:303
+msgid "Moderate drizzle"
+msgstr "ཟིམ་ཆར་རན་པ།"
+
+#: ../libgde2weather/weather.c:303
+msgid "Heavy drizzle"
+msgstr "ཟིམ་ཆར་ཤུགས་ཅན།"
+
+#: ../libgde2weather/weather.c:303
+msgid "Freezing drizzle"
+msgstr "གྲང་ངེར་ཟིམ་ཆར།"
+
+#. RAIN
+#: ../libgde2weather/weather.c:304
+msgid "Rain"
+msgstr "ཆརཔ།"
+
+#: ../libgde2weather/weather.c:304
+msgid "Light rain"
+msgstr "ཆརཔ་དུམ་གྲ་རེ།"
+
+#: ../libgde2weather/weather.c:304
+msgid "Moderate rain"
+msgstr "ཆརཔ་རན་པ།"
+
+#: ../libgde2weather/weather.c:304
+msgid "Heavy rain"
+msgstr "ཆརཔ་ཤུགས་ཅན།"
+
+#: ../libgde2weather/weather.c:304
+msgid "Rain showers"
+msgstr "འབྲུ་ཆར།"
+
+#: ../libgde2weather/weather.c:304
+msgid "Freezing rain"
+msgstr "གྲང་ཆར།"
+
+#. SNOW
+#: ../libgde2weather/weather.c:305
+msgid "Snow"
+msgstr "ཁཝ།"
+
+#: ../libgde2weather/weather.c:305
+msgid "Light snow"
+msgstr "ཁཝ་དུམ་གྲ་རེ།"
+
+#: ../libgde2weather/weather.c:305
+msgid "Moderate snow"
+msgstr "ཁཝ་རན་པ།"
+
+#: ../libgde2weather/weather.c:305
+msgid "Heavy snow"
+msgstr "ཁཝ་ཤུགས་ཅན།"
+
+#: ../libgde2weather/weather.c:305
+msgid "Snowstorm"
+msgstr "ཁ་ཆར།"
+
+#: ../libgde2weather/weather.c:305
+msgid "Blowing snowfall"
+msgstr "ཁ་རླུང་།"
+
+#: ../libgde2weather/weather.c:305
+msgid "Snow showers"
+msgstr "ཁ་ཟིམ།"
+
+#: ../libgde2weather/weather.c:305
+msgid "Drifting snow"
+msgstr "ཁ་ཕུང་།"
+
+#. SNOW_GRAINS
+#: ../libgde2weather/weather.c:306
+msgid "Snow grains"
+msgstr "ཁ་རིལ།"
+
+#: ../libgde2weather/weather.c:306
+msgid "Light snow grains"
+msgstr "ཁ་རིལ་དུམ་གྲ་རེ།"
+
+#: ../libgde2weather/weather.c:306
+msgid "Moderate snow grains"
+msgstr "ཁ་རིལ་རན་པ།"
+
+#: ../libgde2weather/weather.c:306
+msgid "Heavy snow grains"
+msgstr "ཁ་རིལ་ཤུགས་ཅན།"
+
+#. ICE_CRYSTALS
+#: ../libgde2weather/weather.c:307
+msgid "Ice crystals"
+msgstr "ཁྱེགས་ཤེལ།"
+
+#. ICE_PELLETS
+#: ../libgde2weather/weather.c:308
+msgid "Ice pellets"
+msgstr "ཁྱེགས་རིལ།"
+
+#: ../libgde2weather/weather.c:308
+msgid "Few ice pellets"
+msgstr "ཁྱེགས་རིལ་དག་པ་རེ།"
+
+#: ../libgde2weather/weather.c:308
+msgid "Moderate ice pellets"
+msgstr "ཁྱེགས་རིལ་རན་པ།"
+
+#: ../libgde2weather/weather.c:308
+msgid "Heavy ice pellets"
+msgstr "ཁྱེགས་རིལ་ཤུགས་ཅན།"
+
+#: ../libgde2weather/weather.c:308
+msgid "Ice pellet storm"
+msgstr "ཁྱེགས་རིལ་རླུང་འཚུབས།"
+
+#: ../libgde2weather/weather.c:308
+msgid "Showers of ice pellets"
+msgstr "ཁྱེགས་རིལ་ཟིམ་ཆར།"
+
+#. HAIL
+#: ../libgde2weather/weather.c:309
+msgid "Hail"
+msgstr "སེརཝ།"
+
+#: ../libgde2weather/weather.c:309
+msgid "Hailstorm"
+msgstr "སེར་ཆར།"
+
+#: ../libgde2weather/weather.c:309
+msgid "Hail showers"
+msgstr "སེར་ཟིམ།"
+
+#. SMALL_HAIL
+#: ../libgde2weather/weather.c:310
+msgid "Small hail"
+msgstr "སེར་ཆུང་།"
+
+#: ../libgde2weather/weather.c:310
+msgid "Small hailstorm"
+msgstr "སེར་ཆར་ཆུང་ཀུ།"
+
+#: ../libgde2weather/weather.c:310
+msgid "Showers of small hail"
+msgstr "སེར་ཆུང་གི་ཆར་ཟིམ།"
+
+#. PRECIPITATION
+#: ../libgde2weather/weather.c:311
+msgid "Unknown precipitation"
+msgstr "མ་ཤེས་པའི་ཆར་ཞོད།"
+
+#. MIST
+#: ../libgde2weather/weather.c:312
+msgid "Mist"
+msgstr "སྨུག་ཟིལ།"
+
+#. FOG
+#: ../libgde2weather/weather.c:313
+msgid "Fog"
+msgstr "ན་བུན།"
+
+#: ../libgde2weather/weather.c:313
+msgid "Fog in the vicinity"
+msgstr "མཐའ་སྐོར་གྱི་ན་བུན།"
+
+#: ../libgde2weather/weather.c:313
+msgid "Shallow fog"
+msgstr "ན་བུན་སྲབ་མོ།"
+
+#: ../libgde2weather/weather.c:313
+msgid "Patches of fog"
+msgstr "ན་བུན་མཚམས་ཐོར།"
+
+#: ../libgde2weather/weather.c:313
+msgid "Partial fog"
+msgstr "ན་བུན་ཐར་ཐོར།"
+
+#: ../libgde2weather/weather.c:313
+msgid "Freezing fog"
+msgstr "གྲང་ངེར་ཅན་གྱི་ན་བུན།"
+
+#. SMOKE
+#: ../libgde2weather/weather.c:314
+msgid "Smoke"
+msgstr "དུ་པ།"
+
+#. VOLCANIC_ASH
+#: ../libgde2weather/weather.c:315
+msgid "Volcanic ash"
+msgstr "མེ་རིའི་སྒོ་ཐལ།"
+
+#. SAND
+#: ../libgde2weather/weather.c:316
+msgid "Sand"
+msgstr "བྱེམ།"
+
+#: ../libgde2weather/weather.c:316
+msgid "Blowing sand"
+msgstr "འཕུར་བའི་བྱེམ།"
+
+#: ../libgde2weather/weather.c:316
+msgid "Drifting sand"
+msgstr "བྱེ་ཕུང་།"
+
+#. HAZE
+#: ../libgde2weather/weather.c:317
+msgid "Haze"
+msgstr "དུ་སྨུག"
+
+#. SPRAY
+#: ../libgde2weather/weather.c:318
+msgid "Blowing sprays"
+msgstr "འཕུར་བའི་ཆར་ཟིལ།"
+
+#. DUST
+#: ../libgde2weather/weather.c:319
+msgid "Dust"
+msgstr "ཐལཝ།"
+
+#: ../libgde2weather/weather.c:319
+msgid "Blowing dust"
+msgstr "འཕུར་ཐལ།"
+
+#: ../libgde2weather/weather.c:319
+msgid "Drifting dust"
+msgstr "ཐལ་ཕུང་།"
+
+#. SQUALL
+#: ../libgde2weather/weather.c:320
+msgid "Squall"
+msgstr "རླུང་འཚུབས།"
+
+#. SANDSTORM
+#: ../libgde2weather/weather.c:321
+msgid "Sandstorm"
+msgstr "བྱེ་མའི་རླུང་།"
+
+#: ../libgde2weather/weather.c:321
+msgid "Sandstorm in the vicinity"
+msgstr "མཐའ་སྐོར་གྱི་བྱེ་མའི་རླུང་།"
+
+#: ../libgde2weather/weather.c:321
+msgid "Heavy sandstorm"
+msgstr "བྱེ་མའི་རླུང་དྲག་པོ།"
+
+#. DUSTSTORM
+#: ../libgde2weather/weather.c:322
+msgid "Duststorm"
+msgstr "ཐལ་རླུང་།"
+
+#: ../libgde2weather/weather.c:322
+msgid "Duststorm in the vicinity"
+msgstr "མཐའ་སྐོར་གྱི་ཐལ་རླུང་།"
+
+#: ../libgde2weather/weather.c:322
+msgid "Heavy duststorm"
+msgstr "ཐལ་རླུང་དྲག་པོ།"
+
+#. FUNNEL_CLOUD
+#: ../libgde2weather/weather.c:323
+msgid "Funnel cloud"
+msgstr "ས་སྨུག་དཀྱུས་རིང་།"
+
+#. TORNADO
+#: ../libgde2weather/weather.c:324
+msgid "Tornado"
+msgstr "དྲག་རླུང་།"
+
+#. DUST_WHIRLS
+#: ../libgde2weather/weather.c:325
+msgid "Dust whirls"
+msgstr "ཐལ་བའི་འཁྱིལ་རླུང་།"
+
+#: ../libgde2weather/weather.c:325
+msgid "Dust whirls in the vicinity"
+msgstr "མཐའ་སྐོར་ནང་གི་་ ཐལ་བའི་འཁྱིར་རླུང་།"
+
+#. TRANSLATOR: this is a format string for strftime
+#. *             see `man 3 strftime` for more details
+#: ../libgde2weather/weather.c:718
+msgid "%a, %b %d / %H:%M"
+msgstr "%a, %b %d / %H:%M"
+
+#: ../libgde2weather/weather.c:733
+msgid "Unknown observation time"
+msgstr "མ་ཤེས་པའི་ བལྟ་དཔྱད་དུས་ཚོད།"
+
+#: ../libgde2weather/weather.c:747 ../libgde2weather/weather.c:798
+#: ../libgde2weather/weather.c:812 ../libgde2weather/weather.c:825
+#: ../libgde2weather/weather.c:838 ../libgde2weather/weather.c:851
+#: ../libgde2weather/weather.c:869 ../libgde2weather/weather.c:887
+#: ../libgde2weather/weather.c:925 ../libgde2weather/weather.c:941
+#: ../libgde2weather/weather.c:964 ../libgde2weather/weather.c:996
+#: ../libgde2weather/weather.c:1012 ../libgde2weather/weather.c:1032
+msgid "Unknown"
+msgstr "མ་ཤེསཔ།"
+
+#. TRANSLATOR: This is the temperature in degrees Fahrenheit (\302\260 is
+#. U+00B0 DEGREE SIGN)
+#: ../libgde2weather/weather.c:769
+#, c-format
+msgid "%.1f °F"
+msgstr ""
+
+#. TRANSLATOR: This is the temperature in degrees Fahrenheit (\302\260 is
+#. U+00B0 DEGREE SIGN)
+#: ../libgde2weather/weather.c:772
+#, c-format
+msgid "%d °F"
+msgstr ""
+
+#. TRANSLATOR: This is the temperature in degrees Celsius (\302\260 is U+00B0
+#. DEGREE SIGN)
+#: ../libgde2weather/weather.c:778
+#, c-format
+msgid "%.1f °C"
+msgstr ""
+
+#. TRANSLATOR: This is the temperature in degrees Celsius (\302\260 is U+00B0
+#. DEGREE SIGN)
+#: ../libgde2weather/weather.c:781
+#, c-format
+msgid "%d °C"
+msgstr ""
+
+#. TRANSLATOR: This is the temperature in kelvin
+#: ../libgde2weather/weather.c:787
+#, c-format
+msgid "%.1f K"
+msgstr "%.1f ཀེ"
+
+#. TRANSLATOR: This is the temperature in kelvin
+#: ../libgde2weather/weather.c:790
+#, c-format
+msgid "%d K"
+msgstr "%d K"
+
+#. TRANSLATOR: This is the humidity in percent
+#: ../libgde2weather/weather.c:872
+#, c-format
+msgid "%.f%%"
+msgstr "%.f%%"
+
+#. TRANSLATOR: This is the wind speed in knots
+#: ../libgde2weather/weather.c:900
+#, c-format
+msgid "%0.1f knots"
+msgstr "%0.1f ནོཊིསི།"
+
+#. TRANSLATOR: This is the wind speed in miles per hour
+#: ../libgde2weather/weather.c:904
+#, c-format
+msgid "%.1f mph"
+msgstr "%.1f ཆུ་ཚོད་རེ་ནང་མ་ཡེལ།"
+
+#. TRANSLATOR: This is the wind speed in kilometers per hour
+#: ../libgde2weather/weather.c:908
+#, c-format
+msgid "%.1f km/h"
+msgstr "%.1f ཆུ་ཚོད་རེ་ནང་ ཀི་ལོ་མི་ཊར།"
+
+#. TRANSLATOR: This is the wind speed in meters per second
+#: ../libgde2weather/weather.c:912
+#, c-format
+msgid "%.1f m/s"
+msgstr "%.1f སྐར་ཆ་རེ་ནང་ མི་ཊར།"
+
+#. TRANSLATOR: This is the wind speed as a Beaufort force factor
+#. * (commonly used in nautical wind estimation).
+#: ../libgde2weather/weather.c:918
+#, c-format
+msgid "Beaufort force %.1f"
+msgstr "བིའུ་ཕོརཊི་གི་ནུས་ཤུགས་%.1f།"
+
+#: ../libgde2weather/weather.c:943
+msgid "Calm"
+msgstr "ཞི་འཇམ།"
+
+#. TRANSLATOR: This is 'wind direction' / 'wind speed'
+#: ../libgde2weather/weather.c:947
+#, c-format
+msgid "%s / %s"
+msgstr "%s / %s"
+
+#. TRANSLATOR: This is pressure in inches of mercury
+#: ../libgde2weather/weather.c:969
+#, c-format
+msgid "%.2f inHg"
+msgstr "%.2f མར་ཀུ་རིའི་ ཨིན་ཅེསི།"
+
+#. TRANSLATOR: This is pressure in millimeters of mercury
+#: ../libgde2weather/weather.c:973
+#, c-format
+msgid "%.1f mmHg"
+msgstr "%.1f མར་ཀུ་རིའི་ མི་ལི་མི་ཊར།"
+
+#. TRANSLATOR: This is pressure in kiloPascals
+#: ../libgde2weather/weather.c:977
+#, c-format
+msgid "%.2f kPa"
+msgstr "%.2f ཀི་ལོ་པཱསི་ཀཱལ།"
+
+#. TRANSLATOR: This is pressure in hectoPascals
+#: ../libgde2weather/weather.c:981
+#, c-format
+msgid "%.2f hPa"
+msgstr "%.2f ཧེཀ་ཊོ་པཱསི་ཀཱལ།"
+
+#. TRANSLATOR: This is pressure in millibars
+#: ../libgde2weather/weather.c:985
+#, c-format
+msgid "%.2f mb"
+msgstr "%.2f མི་ལི་བར།"
+
+#. TRANSLATOR: This is pressure in atmospheres
+#: ../libgde2weather/weather.c:989
+#, c-format
+msgid "%.3f atm"
+msgstr "%.3f ཨེ་ཊི་ཨེམ།"
+
+#. TRANSLATOR: This is the visibility in miles
+#: ../libgde2weather/weather.c:1017
+#, c-format
+msgid "%.1f miles"
+msgstr "%.1f མ་ཡིལ།"
+
+#. TRANSLATOR: This is the visibility in kilometers
+#: ../libgde2weather/weather.c:1021
+#, c-format
+msgid "%.1f km"
+msgstr "%.1f ཀི་ལོ་མི་ཊར།"
+
+#. TRANSLATOR: This is the visibility in meters
+#: ../libgde2weather/weather.c:1025
+#, c-format
+msgid "%.0fm"
+msgstr "%.0f མི་ཊར།"
+
+#: ../libgde2weather/weather.c:1054 ../libgde2weather/weather.c:1075
+msgid "%H:%M"
+msgstr "%H:%M"
+
+#: ../libgde2weather/weather.c:1134
+msgid "Retrieval failed"
+msgstr "སླར་འདྲེན་འབད་མ་ཚུགས།"
